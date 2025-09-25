@@ -20,13 +20,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper
+      - name: Run past scraper
         run: python scraper.py
+
+      - name: Run upcoming scraper
+        run: python scraper_upcoming.py
 
       - name: Commit & push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add *.json
-          git commit -m "Update auction lots (\$(date -u +%Y-%m-%dT%H:%M:%SZ))" || echo "No changes"
+          git commit -m "Update auction lots ($(date -u +%Y-%m-%dT%H:%M:%SZ))" || echo "No changes"
           git push
