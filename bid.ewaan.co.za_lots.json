@@ -49338,5 +49338,455 @@
     "url": "https://bid.ewaan.co.za/lots/view/5-1Z3BO3",
     "sold_date": "2025-09-24",
     "auction_title": "Sale # 191: Live Auction Wednesday 24th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z25SP",
+    "title": "2025 JHB Coin Fair Privy Silver Krugerrand 1oz PF 70 NGC",
+    "status": "sold",
+    "sold_price": "2500.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z25SP",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z25W5",
+    "title": "2025 Durban Coin Fair Privy Silver Krugerrand 1oz PF 70 NGC",
+    "status": "sold",
+    "sold_price": "2800.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z25W5",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z260Q",
+    "title": "1900 £5 Noot Pretoria PMG VF 35. Pick #55b",
+    "status": "sold",
+    "sold_price": "725.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z260Q",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z2635",
+    "title": "1900 £10 Noot Pretoria PMG VF 35. Pick# 56b",
+    "status": "sold",
+    "sold_price": "700.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z2635",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z26CD",
+    "title": "1900 Oceana Extra Strong Watermark £1 Noot Pietersburg PMG VF 25. Pick# 60c",
+    "status": "sold",
+    "sold_price": "700.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z26CD",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z26JT",
+    "title": "1901 Edward Lloyd London Watermark £1 Pietersburg PMG VF 30. Pick# 60c",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z26JT",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z26LT",
+    "title": "1900 £50 Noot Pretoria PMG 63 Choice Uncirculated. Pick# 58. Extremely Rare",
+    "status": "sold",
+    "sold_price": "10000.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z26LT",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z26P5",
+    "title": "1894 Penny MS 61 BN NGC",
+    "status": "sold",
+    "sold_price": "2800.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z26P5",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z26SO",
+    "title": "1894 2.5 Shillings MS 61 NGC. Extremely Rare",
+    "status": "sold",
+    "sold_price": "27000.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z26SO",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z26YX",
+    "title": "1894 Pond MS 61 NGC. Extremely Rare",
+    "status": "sold",
+    "sold_price": "75000.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z26YX",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z274F",
+    "title": "1948 5 Shillings PL 66 NGC",
+    "status": "sold",
+    "sold_price": "1400.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z274F",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z2766",
+    "title": "1953 5 Shillings PL 66 NGC",
+    "status": "sold",
+    "sold_price": "1250.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z2766",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z27U7",
+    "title": "1954 5 Shillings PL 67 NGC. Finest Known",
+    "status": "sold",
+    "sold_price": "3500.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z27U7",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z2824",
+    "title": "1958 5 Shillings PL 65",
+    "status": "sold",
+    "sold_price": "1450.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z2824",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z28MD",
+    "title": "1960 5 Shillings PL 68 NGC. Finest Known",
+    "status": "sold",
+    "sold_price": "9000.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z28MD",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z29FC",
+    "title": "1892 Pond Double Shaft AU 53 NGC",
+    "status": "sold",
+    "sold_price": "19000.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z29FC",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z29IM",
+    "title": "2003 Gold 1/10th Tsonga Nation PF 68 NGC",
+    "status": "sold",
+    "sold_price": "6750.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z29IM",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z29ND",
+    "title": "2007 Gold 1/10th Afrikaner People PF 69 NGC",
+    "status": "sold",
+    "sold_price": "7500.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z29ND",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z29R8",
+    "title": "2004 Somalia $1 X-Plorer MS 64 NGC. Finest Known Stand Alone",
+    "status": "sold",
+    "sold_price": "1300.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z29R8",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z29XN",
+    "title": "2004 Somalia $1 Stars & Stripes MS 64 NGC. Finest Known Stand Alone",
+    "status": "sold",
+    "sold_price": "1150.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z29XN",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z2A3V",
+    "title": "2004 Somalia $1 Klein MS 65 NGC. Finest Known Stand Alone",
+    "status": "sold",
+    "sold_price": "1050.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z2A3V",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z2A6J",
+    "title": "2004 Somalia $1 Gary Glitter MS 65 NGC. Finest Known Stand Alone",
+    "status": "sold",
+    "sold_price": "1050.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z2A6J",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z2A86",
+    "title": "2004 Somalia $1 Flying V MS 65 NGC. Finest Known Stand Alone",
+    "status": "sold",
+    "sold_price": "925.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z2A86",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z38C9",
+    "title": "2024 Silver Krugerrand 1oz Elephant Privy PF 69 NGC",
+    "status": "sold",
+    "sold_price": "1600.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z38C9",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z38L7",
+    "title": "2019 Silver R2 1oz Polymer Putty PF 69 NGC",
+    "status": "sold",
+    "sold_price": "2000.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z38L7",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z38WM",
+    "title": "2023 Silver R5 1oz Buffalo PF 70 NGC. Finest Known",
+    "status": "sold",
+    "sold_price": "2000.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z38WM",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3925",
+    "title": "2023 Silver R5 1oz Leopard PF 70 NGC. Finest Known",
+    "status": "sold",
+    "sold_price": "1800.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3925",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z39FC",
+    "title": "2017 Silver Krugerrand 1oz 50th Anniversary SP 68 NGC",
+    "status": "sold",
+    "sold_price": "1350.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z39FC",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z39P3",
+    "title": "2024 Silver R5 1oz Elephant PF 70 NGC. Finest Known",
+    "status": "sold",
+    "sold_price": "1900.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z39P3",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z39SG",
+    "title": "2024 Johannesburg Coin Fair Privy Silver Krugerrand 1oz PF 70 NGC. Finest Known",
+    "status": "sold",
+    "sold_price": "2500.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z39SG",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3A2S",
+    "title": "2008 Zimbabwe 10 Trillion Dollars PMG 66 Gem Uncirculated EPQ. Pick# 88",
+    "status": "sold",
+    "sold_price": "425.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3A2S",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3A9N",
+    "title": "2008 Zimbabwe 20 Trillion Dollars PMG 65 Gem Uncirculated EPQ. Pick# 89",
+    "status": "sold",
+    "sold_price": "625.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3A9N",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3AKE",
+    "title": "2008 Zimbabwe 50 Trillion Dollars PMG 64 Choice Uncirculated EPQ. Pick# 90",
+    "status": "sold",
+    "sold_price": "875.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3AKE",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3APO",
+    "title": "2008 Zimbabwe 100 Trillion Dollars PMG 65 Gem Uncirculated EPQ. Pick# 91",
+    "status": "sold",
+    "sold_price": "1650.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3APO",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3ATY",
+    "title": "1990 CL Stals R5 Replacement PMG 67 Superb Gem UNC EPQ. Pick# 119e* S/N: XX0840352",
+    "status": "sold",
+    "sold_price": "600.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3ATY",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3AZ0",
+    "title": "1990 CL Stals R5 Replacement PMG 67 Superb Gem UNC EPQ. Pick# 119e* S/N: XX0840353",
+    "status": "sold",
+    "sold_price": "575.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3AZ0",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3B2P",
+    "title": "1990 CL Stals R5 Replacement PMG 66 Gem UNC EPQ. Pick# 119e* S/N: XX0840354",
+    "status": "sold",
+    "sold_price": "450.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3B2P",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3B3T",
+    "title": "1990 CL Stals R5 Replacement PMG 67 Superb Gem UNC EPQ. Pick# 119e* S/N: XX0840355",
+    "status": "sold",
+    "sold_price": "600.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3B3T",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3B87",
+    "title": "2018 L Kganyago R10 Commemorative PMG 68 Superb Gem UNC EPQ. Pick# 143",
+    "status": "sold",
+    "sold_price": "725.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3B87",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3BJ0",
+    "title": "2018 L Kganyago R20 Commemorative PMG 69 Superb Gem UNC EPQ. Pick# 144 Finest Known",
+    "status": "sold",
+    "sold_price": "1950.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3BJ0",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3BKA",
+    "title": "2018 L Kganyago R50 Commemorative PMG 68 Superb Gem UNC EPQ. Pick# 145",
+    "status": "sold",
+    "sold_price": "1250.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3BKA",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3BLR",
+    "title": "2018 L Kganyago R100 Commemorative PMG 68 Superb Gem UNC EPQ. Pick# 146. Finest Known",
+    "status": "sold",
+    "sold_price": "1150.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3BLR",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3BO9",
+    "title": "2018 L Kganyago R200 Commemorative PMG 66 Gem UNC EPQ. Pick# 147",
+    "status": "sold",
+    "sold_price": "925.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3BO9",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3BPN",
+    "title": "2023 L Kganyago R10 PMG 65 Gem UNC EPQ. Pick# 148a",
+    "status": "sold",
+    "sold_price": "625.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3BPN",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3BRO",
+    "title": "2023 L Kganyago R20 PMG VF 35 EPQ. Pick# 149a",
+    "status": "sold",
+    "sold_price": "550.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3BRO",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3BVP",
+    "title": "2023 L Kganyago R50 PMG 67 Superb Gem UNC EPQ. Pick# 150a",
+    "status": "sold",
+    "sold_price": "1050.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3BVP",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3C4H",
+    "title": "2023 L Kganyago R10 PMG 65 Gem UNC EPQ. Pick# 151a",
+    "status": "sold",
+    "sold_price": "475.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3C4H",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3C7Y",
+    "title": "2023 L Kganyago R200 PMG 66 Gem UNC EPQ. Pick# 152a",
+    "status": "sold",
+    "sold_price": "1350.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3C7Y",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3CCZ",
+    "title": "1984 GPC De Kock R50 PMG 40 Extremely Fine. Pick# 122a",
+    "status": "sold",
+    "sold_price": "375.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3CCZ",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
+  },
+  {
+    "row_id": "5-1Z3CEL",
+    "title": "1984 GPC De Kock R50 PMG VF 35. Pick# 122a*",
+    "status": "sold",
+    "sold_price": "450.00",
+    "url": "https://bid.ewaan.co.za/lots/view/5-1Z3CEL",
+    "sold_date": "2025-09-28",
+    "auction_title": "Sale # 192: Live Auction Sunday 28th September 2025 @ 8pm"
   }
 ]
