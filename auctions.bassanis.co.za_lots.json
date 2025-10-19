@@ -216621,5 +216621,716 @@
     "url": "https://auctions.bassanis.co.za/lots/view/5-22E4EH",
     "sold_date": "2025-10-16",
     "auction_title": "Treasure Trove Thursdays 15"
+  },
+  {
+    "row_id": "5-22MPXE",
+    "title": "1976 S. Africa 1/2 Cent (MS61RB)",
+    "status": "sold",
+    "sold_price": "60.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXE",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXG",
+    "title": "1979 S.Africa 1c (MS 62 RB)",
+    "status": "sold",
+    "sold_price": "80.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXG",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXI",
+    "title": "1979 S.Africa 2c (MS 61 RB)",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXI",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXK",
+    "title": "1979 S.Africa 5c (MS62)",
+    "status": "sold",
+    "sold_price": "380.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXK",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXM",
+    "title": "1979 S.Africa 10c (MS64)",
+    "status": "sold",
+    "sold_price": "360.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXM",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXO",
+    "title": "1979 S.Africa 20c (MS64)",
+    "status": "sold",
+    "sold_price": "220.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXO",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXQ",
+    "title": "1979 S.Africa 50c (MS63)",
+    "status": "sold",
+    "sold_price": "60.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXQ",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXS",
+    "title": "Mixed Variety of Ungraded Coins Job Lot",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXS",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXU",
+    "title": "Mixed Variety of Graded Coins Job Lot",
+    "status": "sold",
+    "sold_price": "420.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXU",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXW",
+    "title": "1892 ZAR 6 Pence (VF20)",
+    "status": "sold",
+    "sold_price": "120.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXW",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPXY",
+    "title": "1893 S.Africa 3 Pence (F Details OBV Scratched)",
+    "status": "sold",
+    "sold_price": "60.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPXY",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPY0",
+    "title": "1894 ZAR 1 Shilling Scratched (VF Details)",
+    "status": "sold",
+    "sold_price": "120.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPY0",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPY2",
+    "title": "1895 ZAR 3 Pence (VF Details Gauged)",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPY2",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPY4",
+    "title": "1895 ZAR 6 Pence (VF20)",
+    "status": "sold",
+    "sold_price": "100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPY4",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPY6",
+    "title": "1925 S.Africa 6 Pence Improperly Cleaned (F Details)",
+    "status": "sold",
+    "sold_price": "320.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPY6",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPY8",
+    "title": "1949 S.Africa Silver 3 Pence (XF45)",
+    "status": "sold",
+    "sold_price": "60.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPY8",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYA",
+    "title": "1960 S.Africa 2 Shillings (MS63)",
+    "status": "sold",
+    "sold_price": "140.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYA",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYC",
+    "title": "S.Africa C.L Stals R5 Banknote",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYC",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYE",
+    "title": "1986 Bank of Poland 50 Zlotych Banknote",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYE",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYG",
+    "title": "Banco de Angola 20 Escudos Banknote",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYG",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYI",
+    "title": "X6 Jan Van Riebeeck Replica Coins",
+    "status": "sold",
+    "sold_price": "100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYI",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYK",
+    "title": "X4 1961 S.Africa 1c Coins",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYK",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYM",
+    "title": "X2 1962 S.Africa 1c Coins",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYM",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYO",
+    "title": "X2 1964 S.Africa 1c Coins",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYO",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYQ",
+    "title": "X3 1961 S.Africa 1/2c Coins",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYQ",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYS",
+    "title": "X3 1962 S.Africa 1/2c Coins",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYS",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYU",
+    "title": "x3 1963 S.Africa 1/2c Coins",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYU",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYW",
+    "title": "X3 1964 S.Africa 1/2c Coins",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYW",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPYY",
+    "title": "1934 S.Africa Penny",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPYY",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZ0",
+    "title": "1936 S.Africa Penny",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZ0",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZ2",
+    "title": "1939 S.Africa Penny",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZ2",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZ4",
+    "title": "1940 S.Africa Penny",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZ4",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZ6",
+    "title": "X7 1941-1943 S.Africa Penny Job Lot",
+    "status": "sold",
+    "sold_price": "80.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZ6",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZ8",
+    "title": "X6 1954-1957 S.Africa Penny Job lot",
+    "status": "sold",
+    "sold_price": "80.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZ8",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZA",
+    "title": "X1 1948 and X1 1949 S.Africa Penny",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZA",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZC",
+    "title": "X6 1950-1952  S.Africa Penny Job Lot",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZC",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZE",
+    "title": "x7  Mixed Years S.Africa 1/4 Penny Job Lot",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZE",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZM",
+    "title": "X2 S.Africa 1/2c Coins",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZM",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZO",
+    "title": "1970 Rhodesia 1/2c and 1c Coins",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZO",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZQ",
+    "title": "1947 UK 1/2 Penny",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZQ",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZU",
+    "title": "1929 S.Africa Penny",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZU",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MPZW",
+    "title": "X9 S.Africa 1/2 Penny Job Lot",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MPZW",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ00",
+    "title": "1911 Australian Penny",
+    "status": "sold",
+    "sold_price": "60.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ00",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ02",
+    "title": "1883 20 Reis Coin",
+    "status": "sold",
+    "sold_price": "200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ02",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ04",
+    "title": "1956  Rhodesia and Nyasaland Penny",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ04",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ06",
+    "title": "X9 Mixed European Coin Job Lot",
+    "status": "sold",
+    "sold_price": "140.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ06",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0C",
+    "title": "1965 S.Africa 20c Coin",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0C",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0E",
+    "title": "1897 S.Africa 1 Shilling Coin",
+    "status": "sold",
+    "sold_price": "100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0E",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0G",
+    "title": "X2 Mixed Variety of Years British and S.Africa Tickey Job Lot",
+    "status": "sold",
+    "sold_price": "100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0G",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0I",
+    "title": "1967 S.Africa Silver R1 Coin",
+    "status": "sold",
+    "sold_price": "300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0I",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0M",
+    "title": "1941 S.Africa 1/4 Penny",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0M",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0O",
+    "title": "1931 S.Africa 1/4 Penny",
+    "status": "sold",
+    "sold_price": "120.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0O",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0Q",
+    "title": "1938 S.Africa 1/2Penny",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0Q",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0S",
+    "title": "1932 S.Rhodesia 2 Shillings",
+    "status": "sold",
+    "sold_price": "500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0S",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0U",
+    "title": "1952 Southern Rhodesia Half Crown",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0U",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0W",
+    "title": "The Three Centuries of American Nickels Set",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0W",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ0Y",
+    "title": "X3 Bank of Samoa 5 Pounds Banknotes in Sequence",
+    "status": "sold",
+    "sold_price": "80.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ0Y",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ10",
+    "title": "Mixed Variety of Years Banque Centrale De Mauritanie (500; 1000) Banknotes Set",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ10",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ12",
+    "title": "1950 S.Africa M.H de Kock 1 Pound Banknote",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ12",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ14",
+    "title": "X3 North Korea 100 Banknotes in Sequence",
+    "status": "sold",
+    "sold_price": "140.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ14",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ16",
+    "title": "1971 Banco Nacional Ultramariono 50 and 100 Escudos Banknotes Set",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ16",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ18",
+    "title": "2011 Commemorating The Royal Wedding Banknote",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ18",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1A",
+    "title": "2017 Noah's Ark Collectors Banknote",
+    "status": "sold",
+    "sold_price": "160.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1A",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1C",
+    "title": "Kinesis Mint 1 OZ Fine Silver Phoenix Bar",
+    "status": "sold",
+    "sold_price": "1050.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1C",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1E",
+    "title": "Kinesis Mint 1 OZ Fine Silver Dragon Bar",
+    "status": "sold",
+    "sold_price": "1100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1E",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1G",
+    "title": "SAAND 1 Oz Fine Silver African Honeybee Coin",
+    "status": "sold",
+    "sold_price": "1200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1G",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1I",
+    "title": "2023 S.Africa 1/10th Oz Gold Krugerrand",
+    "status": "sold",
+    "sold_price": "6300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1I",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1K",
+    "title": "1965 S.Africa 50c Afrikaans (MS65)",
+    "status": "sold",
+    "sold_price": "260.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1K",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1M",
+    "title": "x3 1999 Chinese One Yuan Banknote Job Lot",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1M",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1O",
+    "title": "X20 2014 Zimbabwe Bond Coins Job Lot",
+    "status": "sold",
+    "sold_price": "20.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1O",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1Q",
+    "title": "1968; 1975; 1976; 1978; 1980; 1981;1992; 1993;1994; 1995; 2001; 2002 Proof Coin Packs job Lot",
+    "status": "sold",
+    "sold_price": "340.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1Q",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1S",
+    "title": "1968 United States Proof Coin Set",
+    "status": "sold",
+    "sold_price": "120.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1S",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1U",
+    "title": "1970 The Royal Mint Of Great Britain And Northern Ireland",
+    "status": "sold",
+    "sold_price": "120.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1U",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1W",
+    "title": "Euro Munz- Entwurfe UNC Set",
+    "status": "sold",
+    "sold_price": "60.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1W",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ1Y",
+    "title": "1984 S.Africa  Coin Sets of All Nations Uncirculated Coin Set (1c -R1)",
+    "status": "sold",
+    "sold_price": "60.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ1Y",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ20",
+    "title": "2013 Canada 5c (MS67)",
+    "status": "sold",
+    "sold_price": "100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ20",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ22",
+    "title": "1982 Isle of Man Crown (MS68)",
+    "status": "sold",
+    "sold_price": "160.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ22",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ24",
+    "title": "2009 Palau Exceptional Animals Bird Of Paradise  $5",
+    "status": "sold",
+    "sold_price": "2400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ24",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
+  },
+  {
+    "row_id": "5-22MQ26",
+    "title": "1 Oz 50th Anniversary Silver Crocodile Medallion",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-22MQ26",
+    "sold_date": "2025-10-18",
+    "auction_title": "Saturday Sale 17"
   }
 ]
