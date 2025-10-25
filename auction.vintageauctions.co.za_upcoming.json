@@ -1,1 +1,2711 @@
-[]
+[
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6Z1",
+    "lot_number": 1,
+    "title": "Catalogues - Past Editions - Coins & Patterns x4",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6Z1"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6Z3",
+    "lot_number": 2,
+    "title": "The Gold Coinage of Ancient to Modern Belgium",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6Z3"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6Z5",
+    "lot_number": 3,
+    "title": "The New World of Gold - 1981 Timothy Green",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6Z5"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6Z7",
+    "lot_number": 4,
+    "title": "The Beauty and Lore of Coins - Currency & Medals",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6Z7"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6Z9",
+    "lot_number": 5,
+    "title": "Coins - 183 Illustrations in colour and black & white",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6Z9"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZB",
+    "lot_number": 6,
+    "title": "The Churchill Centenary Medals - Trustees Presentation Edition - Collection Number: 3534",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZB"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZD",
+    "lot_number": 7,
+    "title": "2006 ZAR 1 Penny 1892 - Coin Replica",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZD"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZF",
+    "lot_number": 8,
+    "title": "1963 1 (Oz) Silver Rivonia Trial - Mandela & Luthuli - 50th Anniv. (Stg) (Norway Mint)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZF"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZH",
+    "lot_number": 9,
+    "title": "1930 British Trade Silver 1 Dollar (.900) (27.0g & 38mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZH"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZJ",
+    "lot_number": 10,
+    "title": "1949 Medal - Voortrekker Monument Inauguration - Johannesburg (11.2g & 32mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZJ"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZL",
+    "lot_number": 11,
+    "title": "1954 Paul Kruger Onthulling Medallion Silver (Stg) (16.4g & 32mm) & Bronze (14.8g  & 32mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZL"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZN",
+    "lot_number": 12,
+    "title": "1965 Rhodesia - Independence Medallion - Silver (Stg) (43g & 40mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZN"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZP",
+    "lot_number": 13,
+    "title": "1977 Crown Silver Jubilee Coin - Elizabeth II Commemorate  (29g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZP"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZR",
+    "lot_number": 14,
+    "title": "1981 UK - H.R.H. - The Prince of Wales & Lady Diana Spencer - Royal Wedding Commemorative Crown",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZR"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZT",
+    "lot_number": 15,
+    "title": "1996 USA Half Dollar - Atlanta Olympics - Women's Soccer (11.34g & 30.61mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZT"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZV",
+    "lot_number": 16,
+    "title": "1994 Inauguration Nelson R Mandela - Official Presidential Medallion (195g & 74.5mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZV"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZX",
+    "lot_number": 17,
+    "title": "ZAR 1894 1 Penny NGC (MS62BN)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZX"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H6ZZ",
+    "lot_number": 18,
+    "title": "Union 1923 1/4 Farthing SANGS (MS63BN)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H6ZZ"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H701",
+    "lot_number": 19,
+    "title": "Union 1923 1/2 Penny SANGS (MS63BN)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H701"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H703",
+    "lot_number": 20,
+    "title": "Union 1924 2.5 Shillings NGC (AU58)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H703"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H705",
+    "lot_number": 21,
+    "title": "Union 1928 1/4 Farthing SANGS (MS64BN)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H705"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H707",
+    "lot_number": 22,
+    "title": "Union 1933 2.5 Shillings NGC (VF30)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H707"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H709",
+    "lot_number": 23,
+    "title": "Union 1936 2.5 Shillings NGC (AU53)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H709"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70B",
+    "lot_number": 24,
+    "title": "Union 1940 2 Shillings NGC (MS62)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70D",
+    "lot_number": 25,
+    "title": "Union 1947 2 Shillings (0.800) (11.3100g & 28.3mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70F",
+    "lot_number": 26,
+    "title": "Union 1949 2 Shillings NGC (PF61)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70H",
+    "lot_number": 27,
+    "title": "Union 1956 3P Tickey NGC (PF65)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70J",
+    "lot_number": 28,
+    "title": "Union 1958 2.5 Shillings (.500) (14.1400g & 32.3mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70L",
+    "lot_number": 29,
+    "title": "Union 1960 2 Shillings (.500) (11.3100g & 28.3mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70N",
+    "lot_number": 30,
+    "title": "Union SA 1926 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70P",
+    "lot_number": 31,
+    "title": "Union SA 1927 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70R",
+    "lot_number": 32,
+    "title": "Union SA 1928 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70T",
+    "lot_number": 33,
+    "title": "Union SA 1929 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70V",
+    "lot_number": 34,
+    "title": "Union SA 1933 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70X",
+    "lot_number": 35,
+    "title": "Union SA 1934 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H70Z",
+    "lot_number": 36,
+    "title": "Union SA 1935 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H70Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H711",
+    "lot_number": 37,
+    "title": "Union SA 1936 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H711"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H713",
+    "lot_number": 38,
+    "title": "Union SA 1937 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H713"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H715",
+    "lot_number": 39,
+    "title": "Union SA 1938 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H715"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H717",
+    "lot_number": 40,
+    "title": "Union SA 1939 Coin Set in sleeve - No 6d & 1 Shilling",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H717"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H719",
+    "lot_number": 41,
+    "title": "Union SA 1940 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H719"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71B",
+    "lot_number": 42,
+    "title": "Union SA 1943 Coin Set in sleeve",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71D",
+    "lot_number": 43,
+    "title": "Union SA 1944 Coin Set in sleeve - with low mintage - 1 & 2 Shillings*",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71F",
+    "lot_number": 44,
+    "title": "Union SA 1945 Coin Set in sleeve - with low mintage - 1 & 2.5 Shillings*",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71H",
+    "lot_number": 45,
+    "title": "Union SA 1946 Coin Set in sleeve - with low mintage - 1, 2 & 2.5 Shillings*",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71J",
+    "lot_number": 46,
+    "title": "1952 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71L",
+    "lot_number": 47,
+    "title": "1960 Short UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71N",
+    "lot_number": 48,
+    "title": "1961 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71P",
+    "lot_number": 49,
+    "title": "1964 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71R",
+    "lot_number": 50,
+    "title": "Mixed Silver batch of  SA coins (.800) (500.8g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71T",
+    "lot_number": 51,
+    "title": "Mixed Silver batch of  SA coins (.500) (501.2g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71V",
+    "lot_number": 52,
+    "title": "Union 1960 2.5 Shillings x5",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71X",
+    "lot_number": 53,
+    "title": "RSA 1963 2.5c Tickey x10",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H71Z",
+    "lot_number": 54,
+    "title": "RSA 1964 10c  x10",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H71Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H721",
+    "lot_number": 55,
+    "title": "1966 Short Proof Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H721"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H723",
+    "lot_number": 56,
+    "title": "1967 Short Proof Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H723"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H725",
+    "lot_number": 57,
+    "title": "1968 Short Proof Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H725"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H727",
+    "lot_number": 58,
+    "title": "1969 Short Proof Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H727"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H729",
+    "lot_number": 59,
+    "title": "1970 Short Proof Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H729"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72B",
+    "lot_number": 60,
+    "title": "1971 Short Proof Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72D",
+    "lot_number": 61,
+    "title": "1974 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72F",
+    "lot_number": 62,
+    "title": "1975 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72H",
+    "lot_number": 63,
+    "title": "1976 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72J",
+    "lot_number": 64,
+    "title": "1977 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72L",
+    "lot_number": 65,
+    "title": "1978 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72N",
+    "lot_number": 66,
+    "title": "1979 Short Proof Set in Long Box - No Gold",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72P",
+    "lot_number": 67,
+    "title": "1973 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72R",
+    "lot_number": 68,
+    "title": "1974 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72T",
+    "lot_number": 69,
+    "title": "1975 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72V",
+    "lot_number": 70,
+    "title": "1976 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72X",
+    "lot_number": 71,
+    "title": "1977 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H72Z",
+    "lot_number": 72,
+    "title": "1978 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H72Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H731",
+    "lot_number": 73,
+    "title": "1981 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H731"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H733",
+    "lot_number": 74,
+    "title": "1982 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H733"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H735",
+    "lot_number": 75,
+    "title": "1984 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H735"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H737",
+    "lot_number": 76,
+    "title": "1986 Mint Pack UNC Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H737"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H739",
+    "lot_number": 77,
+    "title": "1994 SA R5 - Presidential Inauguration NGC (PF69UC) (With steps)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H739"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73B",
+    "lot_number": 78,
+    "title": "1994 SA Proof R5 Presidential Inauguration - with  steps & First Day Cover - with steps",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73D",
+    "lot_number": 79,
+    "title": "2000 Mandela R5 Proof Coin in CD Holder",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73F",
+    "lot_number": 80,
+    "title": "2000 & 2008 The Nelson Mandela Commemorative R5 Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73H",
+    "lot_number": 81,
+    "title": "2004 SA R5 MM Coin - Oom Paul",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73J",
+    "lot_number": 82,
+    "title": "2008 R5 Proof SA Mandela - 90th Birthday in Box",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73L",
+    "lot_number": 83,
+    "title": "2008 SA R5  Mandela - 90th Birthday NGC (XF45) x4",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73N",
+    "lot_number": 84,
+    "title": "2008 SA R5  Mandela - 90th Birthday SANGS (MS65) x4",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73P",
+    "lot_number": 85,
+    "title": "2011 SA R5 Crown - 90th Anniv.  of the SARB",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73R",
+    "lot_number": 86,
+    "title": "2015 SA R5 - Coinage of Griqua Town",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73T",
+    "lot_number": 87,
+    "title": "100 Years SARB Centenary Commemorative Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73V",
+    "lot_number": 88,
+    "title": "1994 SA Brilliant UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73X",
+    "lot_number": 89,
+    "title": "1994 SA UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H73Z",
+    "lot_number": 90,
+    "title": "1995 SA UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H73Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H741",
+    "lot_number": 91,
+    "title": "1996 SA Brilliant UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H741"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H743",
+    "lot_number": 92,
+    "title": "1996 SA UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H743"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H745",
+    "lot_number": 93,
+    "title": "1997 SA Circulation Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H745"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H747",
+    "lot_number": 94,
+    "title": "1997 SA Brilliant UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H747"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H749",
+    "lot_number": 95,
+    "title": "1998 SA Circulation Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H749"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74B",
+    "lot_number": 96,
+    "title": "2000 SA UNC Coin Set - Old coat of arms",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74D",
+    "lot_number": 97,
+    "title": "2001 SA UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74F",
+    "lot_number": 98,
+    "title": "2002 SA UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74H",
+    "lot_number": 99,
+    "title": "2003 SA UNC Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74J",
+    "lot_number": 100,
+    "title": "2006 SA Circulation Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74L",
+    "lot_number": 101,
+    "title": "1993 SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74N",
+    "lot_number": 102,
+    "title": "1994 SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74P",
+    "lot_number": 103,
+    "title": "1995 SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74R",
+    "lot_number": 104,
+    "title": "1996 SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74T",
+    "lot_number": 105,
+    "title": "1997 SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74V",
+    "lot_number": 106,
+    "title": "1998 SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74X",
+    "lot_number": 107,
+    "title": "1999 SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H74Z",
+    "lot_number": 108,
+    "title": "2000 SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H74Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H751",
+    "lot_number": 109,
+    "title": "2001  SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H751"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H753",
+    "lot_number": 110,
+    "title": "2002  SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H753"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H755",
+    "lot_number": 111,
+    "title": "2003  SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H755"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H757",
+    "lot_number": 112,
+    "title": "2004  SA Proof Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H757"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H759",
+    "lot_number": 113,
+    "title": "2015 NIUE Silver $2 - Icebreaker Eisbrecher Ultra High Relief NGC (PF69 Matte)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H759"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75B",
+    "lot_number": 114,
+    "title": "1977 SA Silver R1 SANGS (PF66)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75D",
+    "lot_number": 115,
+    "title": "1985 SA Silver Proof R1 - Parliament (0.800) (15g  & 30mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75F",
+    "lot_number": 116,
+    "title": "1988 SA R1 x3 Silver Proof Coins - Huguenots, Dias & Groot Trek (0.800) (45g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75H",
+    "lot_number": 117,
+    "title": "2000 SA Silver R1 - Wine Production NGC (PF69UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75J",
+    "lot_number": 118,
+    "title": "2006 SA Silver R1 - Protea Series - Nobel Peace Prize Winners - Archbishop Desmond Mpilo Tutu (Stg) (15g & 32.69mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75L",
+    "lot_number": 119,
+    "title": "2007 SA Silver R1 - Frederik Willem de Klerk NGC (PF69UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75N",
+    "lot_number": 120,
+    "title": "2008 SA Silver R1 - Protea Series - Mahatma Gandhi (Stg) (15g & 32.69mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75P",
+    "lot_number": 121,
+    "title": "2009 SA Silver R1 - Protea Series - The National Anthem of SA (Stg) (15g & 32.69mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75R",
+    "lot_number": 122,
+    "title": "2011 SA Silver R1 - John Maxwell Coetzee NGC (PF67UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75T",
+    "lot_number": 123,
+    "title": "2016 SA Silver R1 - Protea - Life of a Legend - N Mandela (Stg) (15g & 32.69mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75V",
+    "lot_number": 124,
+    "title": "1992 SA Silver R2 Proof Coin - Mint Technology (Stg) (33.63g & 38.7mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75X",
+    "lot_number": 125,
+    "title": "1995 Silver R2  1(Oz) - UN 50 (Stg) (33.626g & 38.7mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H75Z",
+    "lot_number": 126,
+    "title": "1996 R2 Silver - Soccer - Victory Coin for the African Cup of Nations (Stg) (33.626g & 38.7mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H75Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H761",
+    "lot_number": 127,
+    "title": "1998 SA Silver R2 Crown - Marine Life Series - Jackass Penguin (Stg) (33.626g & 38.7mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H761"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H763",
+    "lot_number": 128,
+    "title": "2010 R2 Crown - FIFA World Cup SA (Stg) (33.626g & 38.725mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H763"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H765",
+    "lot_number": 129,
+    "title": "2012 R2 Crown - Antarctica - The Centenary of the Discovery of the South Pole (Stg) (33.626g & 68.725mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H765"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H767",
+    "lot_number": 130,
+    "title": "2014 R2 Crown - 20 Years of Democracy (Stg) (33.626g & 38.725mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H767"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H769",
+    "lot_number": 131,
+    "title": "2019 1 (Oz) - Archosauria - Rise of the Dinosaurs Euparkeria R25 Fine Silver (31.107g & 38.725mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H769"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76B",
+    "lot_number": 132,
+    "title": "2019 1 (Oz) Commemorative Silver Proof Coin - 25 Years of Democracy  (Stg) (33.626g & 38.7mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76D",
+    "lot_number": 133,
+    "title": "2023 The Big Five: Leopard Fine Silver 1 (Oz) Brilliant UNC Coin (.999) (31.107g & 38.725mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76F",
+    "lot_number": 134,
+    "title": "2012 Commemorative Medallion (Stg) (1.414g & 16.30mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76H",
+    "lot_number": 135,
+    "title": "2012 SA 2.5c Tickey - Gautrain NGC (PF70UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76J",
+    "lot_number": 136,
+    "title": "2015 SA 2.5c Tickey - Trains of SA - Steam Class 19D - JHB Coin Show NGC (PF70UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76L",
+    "lot_number": 137,
+    "title": "2016 SA 2.5c Tickey - SA Inventions - The Dolos - FlyPress DBN Coin Show NGC (PF69UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76N",
+    "lot_number": 138,
+    "title": "Full Set - Bullion Fine Silver Krugerrands 2018 -2025 (248.8g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76P",
+    "lot_number": 139,
+    "title": "2022 SA Silver 1 (Oz) R5 Rhino NGC (PF69UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76R",
+    "lot_number": 140,
+    "title": "2022 SA Silver 1 (Oz) R5 Lion NGC (PF70UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76T",
+    "lot_number": 141,
+    "title": "2023 SA Silver 1 (Oz) R5 Leopard NGC (PF69UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76V",
+    "lot_number": 142,
+    "title": "2023 SA Silver 1 (Oz) R5 Buffalo NGC (PF70UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76X",
+    "lot_number": 143,
+    "title": "2022 SA Silver 1 (Oz) KR - Rhino Privy NGC (PF69UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H76Z",
+    "lot_number": 144,
+    "title": "2022 SA Silver 1 (Oz) KR - Lion Privy NGC (PF69UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H76Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H771",
+    "lot_number": 145,
+    "title": "2023 SA Silver 1 (Oz) KR - Leopard Privy NGC (PF70UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H771"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H773",
+    "lot_number": 146,
+    "title": "2023 SA Silver 1 (Oz) KR - Buffalo Privy NGC (PF70UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H773"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H775",
+    "lot_number": 147,
+    "title": "1966 The Kingdom of Lesotho Commemorative (.900) Silver (48g) Coinage Issue",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H775"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H777",
+    "lot_number": 148,
+    "title": "1964 Malawi's First Coinage Issue",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H777"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H779",
+    "lot_number": 149,
+    "title": "Rhodesia UNC Coin Set (1970, 1975 & 1976)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H779"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77B",
+    "lot_number": 150,
+    "title": "1968 Coinage of Ireland",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77D",
+    "lot_number": 151,
+    "title": "1980 Netherlands - Utrecht Coin set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77F",
+    "lot_number": 152,
+    "title": "1953 Great Britian set of coins in holder",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77H",
+    "lot_number": 153,
+    "title": "1972 Souvenir Vaticano Coin Set - Pope John Paul",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77J",
+    "lot_number": 154,
+    "title": "1997 Netherlands  Coinage set - Time of King William I",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77L",
+    "lot_number": 155,
+    "title": "2005 USA - Westward Journey Nickel 5c Series Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77N",
+    "lot_number": 156,
+    "title": "2005 USA UNC Coin Set - Denver",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77P",
+    "lot_number": 157,
+    "title": "2006 USA Proof Set & 50 State Quarters Proof Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77R",
+    "lot_number": 158,
+    "title": "Pretoria - 1 Pond - Model 1a",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77T",
+    "lot_number": 159,
+    "title": "Pretoria - 1 Pond - Model 2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77V",
+    "lot_number": 160,
+    "title": "Pretoria - 1 Pond - Model 3e x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77X",
+    "lot_number": 161,
+    "title": "Pretoria - 5 Pond - Model 2 x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H77Z",
+    "lot_number": 162,
+    "title": "Pretoria - 5 Pond - Model 3a",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H77Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H781",
+    "lot_number": 163,
+    "title": "Pretoria - 5 Pond - Model 3c",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H781"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H783",
+    "lot_number": 164,
+    "title": "Pretoria - 5 Pond - Model 3f",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H783"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H785",
+    "lot_number": 165,
+    "title": "Pretoria - 10 Pond -Model 3a x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H785"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H787",
+    "lot_number": 166,
+    "title": "Pretoria - 20 Pond - Model 3a",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H787"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H789",
+    "lot_number": 167,
+    "title": "Pretoria - 50 Pond - Model 1d",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H789"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78B",
+    "lot_number": 168,
+    "title": "Pietersburg - 1 Pond - Model 1c - February",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78D",
+    "lot_number": 169,
+    "title": "Pietersburg - 1 Pond - Model 2 - March x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78F",
+    "lot_number": 170,
+    "title": "Pietersburg - 1 Pond - Model 3a - April",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78H",
+    "lot_number": 171,
+    "title": "Pietersburg - 1 Pond - Model 3L - April  x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78J",
+    "lot_number": 172,
+    "title": "Pietersburg - 1 Pond - Model 3n - April  x5",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78L",
+    "lot_number": 173,
+    "title": "Pietersburg - 5 Pond - Model 1 - February  x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78N",
+    "lot_number": 174,
+    "title": "Pietersburg - 5 Pond - Model 3c - April x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78P",
+    "lot_number": 175,
+    "title": "Te Velde - 1 Pond - Model 3a - May",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78R",
+    "lot_number": 176,
+    "title": "Te Velde - 1 Pond - 3e - May x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78T",
+    "lot_number": 177,
+    "title": "Te Velde - 5 Pond - 1a - March",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78V",
+    "lot_number": 178,
+    "title": "Te Velde - 5 Pond - 2a - April",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78X",
+    "lot_number": 179,
+    "title": "J Postmus - 10 Shillings (1938) (E/A)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H78Z",
+    "lot_number": 180,
+    "title": "J Postmus - 1 Pound (1943) (E/A)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H78Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H791",
+    "lot_number": 181,
+    "title": "MH de Kock - 2nd Issue - 1 Pound (1951) (E/A) x4",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H791"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H793",
+    "lot_number": 182,
+    "title": "MH de Kock - 3rd Issue - 10 Shillings (1951) (E/A)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H793"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H795",
+    "lot_number": 183,
+    "title": "MH de Kock - 4th Issue - 10 Rand (1961) (E/A)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H795"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H797",
+    "lot_number": 184,
+    "title": "MH de Kock - 4th Issue - 20 Rand (1961) (E/A)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H797"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H799",
+    "lot_number": 185,
+    "title": "G Rissik - 1st Issue - 1 Rand (1962) (A/E) x6",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H799"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79B",
+    "lot_number": 186,
+    "title": "TW de Jongh - 2nd Issue - 2 Rand (1973) (A/E) x3 - Consecutive Prefix No. D9",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79B"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79D",
+    "lot_number": 187,
+    "title": "TW de Jongh - 3rd Issue - 1 Rand (1975) (A/E) x10 - Consecutive Prefix No. B361",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79D"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79F",
+    "lot_number": 188,
+    "title": "TW de Jongh - 3rd Issue - 10 Rand (1975) (E/A) x3 - Consecutive Prefix No. C415",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79F"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79H",
+    "lot_number": 189,
+    "title": "TW de Jongh - 4th Issue - 2 Rand (1978) (A/E) x4 - Consecutive Prefix No. W3 (Replacements)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79H"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79J",
+    "lot_number": 190,
+    "title": "GPC de Kock - 2nd Issue - 10 Rand (1982) (A/E) - Consecutive Prefix No. C6 48 x10",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79J"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79L",
+    "lot_number": 191,
+    "title": "GPC de Kock - 2nd Issue - 20 Rand (1981) (E/A) - Consecutive Prefix No. D2 17 x10",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79L"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79N",
+    "lot_number": 192,
+    "title": "GPC de Kock - 3rd Issue - 2 Rand (1983/89) (A/E) - Consecutive Prefix No. GF x10",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79N"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79P",
+    "lot_number": 193,
+    "title": "CL Stals - 1st Issue - 5 Rand (1990) (E/A) - Consecutive Prefix No. BN X10",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79P"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79R",
+    "lot_number": 194,
+    "title": "CL Stals - 2nd Issue - 10 Rand (1993)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79R"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79T",
+    "lot_number": 195,
+    "title": "CL Stals - 2nd Issue - 200 Rand (1994)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79T"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79V",
+    "lot_number": 196,
+    "title": "World Banknotes - Rhodesia - 1 Dollars x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79V"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79X",
+    "lot_number": 197,
+    "title": "World Banknotes - Rhodesia - 2 Dollars x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79X"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H79Z",
+    "lot_number": 198,
+    "title": "World Banknotes - Rhodesia - 5 Dollars",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H79Z"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H7A1",
+    "lot_number": 199,
+    "title": "World Banknotes - Zimbabwe - 10 Thousand Dollar x1",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H7A1"
+  },
+  {
+    "auction_id": "5-22H5J9",
+    "auction_title": "Bonanza Tuesday Auction 201 Lots - 25019",
+    "lot_id": "5-22H7A3",
+    "lot_number": 200,
+    "title": "World Banknotes - Zimbabwe - Mixed batch  x23",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-22H7A3"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GH5",
+    "lot_number": 1,
+    "title": "The Transvaal from within - A Private Record of Public Affairs (1899)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GH5"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GH7",
+    "lot_number": 2,
+    "title": "Antique Silver Pocket watch (Stg) (108.6g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GH7"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GH9",
+    "lot_number": 3,
+    "title": "Antique Silver Pocket watch (Stg) (120.4g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GH9"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHB",
+    "lot_number": 4,
+    "title": "ZAR 1888 SA Penny - Orange Free State Bronze - Plain Shield NGC (PF62BN)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHB"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHD",
+    "lot_number": 5,
+    "title": "ZAR (1815-16) SA 1/4P Farthing - Griquatown Copper - Reeded Edge **Not encapsulated - Very Rare (3.4g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHD"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHF",
+    "lot_number": 6,
+    "title": "ZAR 1874 P2D - 2 Pence PCGS (SP64BN) - KMPN5",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHF"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHH",
+    "lot_number": 7,
+    "title": "ZAR 1892 1 Penny NGC (MS64BN)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHH"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHJ",
+    "lot_number": 8,
+    "title": "ZAR 1892 2 Shillings NGC (PF63)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHJ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHL",
+    "lot_number": 9,
+    "title": "ZAR 1892 2 Shillings NGC (MS60)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHL"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHN",
+    "lot_number": 10,
+    "title": "ZAR 1892 2.5 Shillings NGC (MS62)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHN"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHP",
+    "lot_number": 11,
+    "title": "ZAR 1895 1 Shilling NGC (AU58)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHP"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHR",
+    "lot_number": 12,
+    "title": "ZAR 1896 2 Shillings NGC (MS62)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHR"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHT",
+    "lot_number": 13,
+    "title": "ZAR 1896 3P Tickey NGC (MS63)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHT"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHV",
+    "lot_number": 14,
+    "title": "ZAR 1897 3P Tickey NGC (MS63)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHV"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHX",
+    "lot_number": 15,
+    "title": "ZAR 1898 1 Penny PCGS (MS65RB)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHX"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GHZ",
+    "lot_number": 16,
+    "title": "ZAR 1898 1 Penny NGC (MS64RB)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GHZ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GI1",
+    "lot_number": 17,
+    "title": "Union ND(1900) 1 Penny - Kaalpenny with Rim NGC",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GI1"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GI3",
+    "lot_number": 18,
+    "title": "Union 1923 1/2 Penny NGC (MS65BN)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GI3"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GI5",
+    "lot_number": 19,
+    "title": "Union 1930 3P Tickey NGC (MS63)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GI5"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GI7",
+    "lot_number": 20,
+    "title": "Union 1933 1 Shilling NGC (MS64)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GI7"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GI9",
+    "lot_number": 21,
+    "title": "Union 1934 6P Sixpence NGC (MS64)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GI9"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIB",
+    "lot_number": 22,
+    "title": "Union 1936 1 Shilling NGC (MS63)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIB"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GID",
+    "lot_number": 23,
+    "title": "Union 1948 5 Shillings NGC (PL64)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GID"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIF",
+    "lot_number": 24,
+    "title": "Union 1949 5 Shillings NGC (PL66)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIF"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIH",
+    "lot_number": 25,
+    "title": "Union 1950 5 Shillings NGC (PL64)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIH"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIJ",
+    "lot_number": 26,
+    "title": "Union 1952 5 Shillings - Cape Town Founding NGC (PL62)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIJ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIL",
+    "lot_number": 27,
+    "title": "Union 1953 5 Shillings NGC (PF65)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIL"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIN",
+    "lot_number": 28,
+    "title": "Union 1954 5 Shillings NGC (PL65)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIN"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIP",
+    "lot_number": 29,
+    "title": "Union 1955 5 Shillings NGC (PL66)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIP"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIR",
+    "lot_number": 30,
+    "title": "Union 1956 5 Shillings NGC (PL62)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIR"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIT",
+    "lot_number": 31,
+    "title": "Union 1957 5 Shillings NGC (PL66)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIT"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIV",
+    "lot_number": 32,
+    "title": "Union 1958 5 Shillings NGC (PL65)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIV"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIX",
+    "lot_number": 33,
+    "title": "Union 1959 5 Shillings NGC (PL65)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIX"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GIZ",
+    "lot_number": 34,
+    "title": "Union 1960 5 Shillings - Union Anniv. NGC (PF65)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GIZ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJ1",
+    "lot_number": 35,
+    "title": "RSA 1962 50c NGC (PL64)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJ1"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJ3",
+    "lot_number": 36,
+    "title": "RSA 1963 50c NGC (PL65)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJ3"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJ5",
+    "lot_number": 37,
+    "title": "RSA 1964 50c PCGS (PR65)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJ5"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJ7",
+    "lot_number": 38,
+    "title": "1962,1963 & 1965 SA Pattern Bronze & Nickel Set - Various NGC Grading x11 including 2 pattern & trail boxes",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJ7"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJ9",
+    "lot_number": 39,
+    "title": "2004 - Birds of Prey Series Combination Set - The African Owls (Stg) (35.04g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJ9"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJB",
+    "lot_number": 40,
+    "title": "2019 SA Polymer Putty Silver Proof Combination Coin Set (Stg) (47.443g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJB"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJD",
+    "lot_number": 41,
+    "title": "2018 SA Inventions Computed Tomography Proof Coin Set  (Stg) (35.04g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJD"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJF",
+    "lot_number": 42,
+    "title": "2020 1 Dollar Fine Silver 1oz James Bond 007 Coin (31.107g & 40.90mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJF"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJH",
+    "lot_number": 43,
+    "title": "2020 Australian Silver Swan 5 (Oz) Silver Proof High Relief (155.533g & 50.90mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJH"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJJ",
+    "lot_number": 44,
+    "title": "Big Five Series II Fine - Silver Collection (155.535g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJJ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJL",
+    "lot_number": 45,
+    "title": "2017 SA Silver 1 (Oz) Krugerrand - 50th Anniv. NGC (SP69)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJL"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJN",
+    "lot_number": 46,
+    "title": "2017 SA Silver 1 (Oz) Proof Krugerrand (31.107g & 38.725mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJN"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJP",
+    "lot_number": 47,
+    "title": "2020 SA Gold 1/50 (Oz)  Proof  Krugerrand (22ct) (0.679g & 8.0mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJP"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJR",
+    "lot_number": 48,
+    "title": "1898 Gold Sammy Marks Tickey - Square Head - Restrike (22ct) (2.61g & 16.3mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJR"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJT",
+    "lot_number": 49,
+    "title": "1898 Gold Sammy Marks Tickey - Flat Head - Proof Restrike - (18ct) (2.61g & 16.3mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJT"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJV",
+    "lot_number": 50,
+    "title": "1898 Gold Sammy Marks Tickey Restrike (22ct) (2.61g & 16.3mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJV"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJX",
+    "lot_number": 51,
+    "title": "1898 SA 1 Pond NGC (MS63)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJX"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GJZ",
+    "lot_number": 52,
+    "title": "1957 SA 1 & 1/2 Pond NGC (PF66CAMEO)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GJZ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GK1",
+    "lot_number": 53,
+    "title": "1926 SA Sovereign NGC (MS63)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GK1"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GK3",
+    "lot_number": 54,
+    "title": "1998 SA 1/10N - Leopard NGC (PF69UC)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GK3"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GK5",
+    "lot_number": 55,
+    "title": "2000 The Krugerrand and the Celtic Coin Set",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GK5"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GK7",
+    "lot_number": 56,
+    "title": "2002 Special R2 Launch Set - Robben Island (15.554g)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GK7"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GK9",
+    "lot_number": 57,
+    "title": "2005 - 2007 Petit Nobel Peace Prize Protea Set No.0013",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GK9"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKB",
+    "lot_number": 58,
+    "title": "2017 SA Gold Fractional Krugerrand Four Coin Set (14.251)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKB"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKD",
+    "lot_number": 59,
+    "title": "2017 SA Gold 1/4 (Oz) Krugerrand (22ct) (8.482g & 22.0mm)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKD"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKF",
+    "lot_number": 60,
+    "title": "1992 SA Gold 1/10 (Oz) Krugerrand (22ct) (33.93g & 32.77) - Low mintage",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKF"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKH",
+    "lot_number": 61,
+    "title": "1992 SA Gold 1/2 (Oz) Krugerrand (22ct) (17.0g & 26mm) - Low mintage - Rim nick",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKH"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKJ",
+    "lot_number": 62,
+    "title": "1992 SA Gold 1/2 (Oz) Proof Krugerrand (22ct) (17.0g & 26mm) - Low mintage",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKJ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKL",
+    "lot_number": 63,
+    "title": "1967 SA Gold 1 (Oz) Krugerrand NGC (PF64)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKL"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKN",
+    "lot_number": 64,
+    "title": "1968 SA Gold 1 (Oz) Krugerrand - Frosted Reverse NGC (PF66)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKN"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKP",
+    "lot_number": 65,
+    "title": "1968 SA Gold 1 (Oz) Krugerrand - Frosted Obverse & Reverse NGC (PF68CAMEO)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKP"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKR",
+    "lot_number": 66,
+    "title": "De Nationale Bank der Zuid Afrikansche Republiek Beperkt. - Cheque No. 176 - 7 April 1900",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKR"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKT",
+    "lot_number": 67,
+    "title": "De Nationale Bank der Zuid Afrikansche Republiek Beperkt. - Cheque No. 25593 - 22 April 1900",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKT"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKV",
+    "lot_number": 68,
+    "title": "Cheque No.P - The National Bank of SA Limited Specimen",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKV"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKX",
+    "lot_number": 69,
+    "title": "Cheque No.J - The National Bank of SA Limited Specimen",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKX"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GKZ",
+    "lot_number": 70,
+    "title": "Barry & Nephews - 5 Pounds - Eng - Unissued Note - (MS63)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GKZ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GL1",
+    "lot_number": 71,
+    "title": "Pretoria - 1 Pond -Model 3d - (F12)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GL1"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GL3",
+    "lot_number": 72,
+    "title": "Pretoria - 5 Pond -Model 2 - (AU55)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GL3"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GL5",
+    "lot_number": 73,
+    "title": "Pretoria - 10 Pond -Model 3a - (AU53)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GL5"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GL7",
+    "lot_number": 74,
+    "title": "Pretoria - 20 Pond -Model 3a - (EF45)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GL7"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GL9",
+    "lot_number": 75,
+    "title": "Pietersburg - 1 Pond -Model 3a - April (AU53)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GL9"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLB",
+    "lot_number": 76,
+    "title": "Pietersburg - 1 Pond -Model 3ab - April (AU50)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLB"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLD",
+    "lot_number": 77,
+    "title": "Pietersburg - 1 Pond -Model 3h - (XF40) - April",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLD"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLF",
+    "lot_number": 78,
+    "title": "Pietersburg - 1 Pond -Model 3k - (EF45) - April",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLF"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLH",
+    "lot_number": 79,
+    "title": "Pietersburg - 1 Pond -Model 3m - (AU50) - April",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLH"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLJ",
+    "lot_number": 80,
+    "title": "Pietersburg - 5 Pond -Model 3c - (XF40) - April",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLJ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLL",
+    "lot_number": 81,
+    "title": "Te Velde - 1 Pond - Model 3e - (AU58) - May",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLL"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLN",
+    "lot_number": 82,
+    "title": "Te Velde - 10 Pond - Model 1a - (F12) - March (No. 2179A is one of the last 25 within the series)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLN"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLP",
+    "lot_number": 83,
+    "title": "J Postmus - 1 Pound (1938/40/41/42/44) (E/A) x5",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLP"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLR",
+    "lot_number": 84,
+    "title": "M.H. de Kock - 1st Issue - 10 Shillings (1946/47) (E/A) x2",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLR"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLT",
+    "lot_number": 85,
+    "title": "M.H. de Kock - 2nd & 3rd Issue - 10 Shillings (1950/51/55/56/57/58/59) (Pick 97a/97b/97c)  (E/A) x3 &( A/E) x4",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLT"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLV",
+    "lot_number": 86,
+    "title": "M.H. de Kock - 3rd Issue -1 Pounds (1956/57/58/59) (A/E)  x4",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLV"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLX",
+    "lot_number": 87,
+    "title": "M.H. de Kock - 2nd & 3rd Issue - 5 Pounds (1950/53/55) (A/E) (Pick 97a/97b/97c) x3",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLX"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GLZ",
+    "lot_number": 88,
+    "title": "C.L. Stals - 1st Issue - 2 Rand - UNC Bulk bundle x100 (1990) (Pick188e) - AA Prefix",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GLZ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GM1",
+    "lot_number": 89,
+    "title": "Kganyago - 1st Issue - 100 Rand - UNC - Unusual Prefix No. ZZ x5",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GM1"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GM3",
+    "lot_number": 90,
+    "title": "Kganyago - 2nd Issue - 10 Rand - UNC Bulk bundle x100 (2018) (Pick143a)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GM3"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GM5",
+    "lot_number": 91,
+    "title": "Kganyago - 3rd Issue  - Low AA Number Family Set  No. 439",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GM5"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GM7",
+    "lot_number": 92,
+    "title": "World Banknotes - Argentina - mixed batch x11",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GM7"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GM9",
+    "lot_number": 93,
+    "title": "World Banknotes - Canada - mixed batch x9",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GM9"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GMB",
+    "lot_number": 94,
+    "title": "World Banknotes - Iran - mixed batch x7 (Pick105a/b/147/149/151)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GMB"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GMD",
+    "lot_number": 95,
+    "title": "World Banknotes - Iraq - mixed batch x27",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GMD"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GMF",
+    "lot_number": 96,
+    "title": "World Banknotes - Germany - mixed batch of 5 UNC banknotes (1971/1975) (Pick27/8/9/30/1)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GMF"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GMH",
+    "lot_number": 97,
+    "title": "World Banknotes - Hong Kong - mixed batch of banknotes (2007)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GMH"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GMJ",
+    "lot_number": 98,
+    "title": "World Banknotes - Korea - mixed batch of 8 UNC banknotes (P39s/40s/41s/42s)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GMJ"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GML",
+    "lot_number": 99,
+    "title": "World Banknotes - North  Korea-  set of 5 UNC banknotes (Pick38) - Consecutive Prefix No.",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GML"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GMN",
+    "lot_number": 100,
+    "title": "World Banknotes - Russia - MMM mixed batch UNC notes x3",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GMN"
+  },
+  {
+    "auction_id": "5-231GG8",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 25020",
+    "lot_id": "5-231GMP",
+    "lot_number": 101,
+    "title": "World Banknotes - Philippines - 5 Peso (1978) (Pick160c) (Gem UNC 66)",
+    "estimate": null,
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-231GMP"
+  }
+]
