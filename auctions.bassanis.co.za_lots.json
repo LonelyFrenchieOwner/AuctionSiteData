@@ -250641,5 +250641,635 @@
     "url": "https://auctions.bassanis.co.za/lots/view/5-25WZLF",
     "sold_date": "2025-12-07",
     "auction_title": "Weekend Wonder 76"
+  },
+  {
+    "row_id": "5-26UXO9",
+    "title": "1923 S.Africa 3P  (AU Details Cleaned)",
+    "status": "sold",
+    "sold_price": "200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXO9",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOB",
+    "title": "1923 S.Africa 1 Shilling (AU Details Stained)",
+    "status": "sold",
+    "sold_price": "280.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOB",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOD",
+    "title": "1927 S. Africa 2 Shillings (XF45)",
+    "status": "sold",
+    "sold_price": "940.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOD",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOF",
+    "title": "1929 S.Africa 2.5 Shillings (AU Details Cleaned)",
+    "status": "sold",
+    "sold_price": "520.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOF",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOH",
+    "title": "1930 S.Africa 1/2P (MS62BN)",
+    "status": "sold",
+    "sold_price": "4400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOH",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOJ",
+    "title": "1931 S.Africa Penny (MS62BN)",
+    "status": "sold",
+    "sold_price": "3600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOJ",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOL",
+    "title": "1935 S.Africa 1/4P (MS64BN)",
+    "status": "sold",
+    "sold_price": "740.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOL",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXON",
+    "title": "1935 S.Rhodesia 2 Shillings (AU Details Obv Scratched, Cleaned)",
+    "status": "sold",
+    "sold_price": "260.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXON",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOP",
+    "title": "1936 S.Africa 2.5 Shillings (AU58)",
+    "status": "sold",
+    "sold_price": "1800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOP",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOR",
+    "title": "1937 S.Africa Penny (MS64BN)",
+    "status": "sold",
+    "sold_price": "1400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOR",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOT",
+    "title": "1937 S.Africa 1 Shilling (MS61)",
+    "status": "sold",
+    "sold_price": "1400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOT",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOV",
+    "title": "1939 S.Africa 1/4P (MS63BN)",
+    "status": "sold",
+    "sold_price": "800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOV",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOX",
+    "title": "1939 S.Africa 2.5 Shillings (AU55)",
+    "status": "sold",
+    "sold_price": "750.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOX",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXOZ",
+    "title": "1945 S.Africa 2 Shillings (MS61)",
+    "status": "sold",
+    "sold_price": "2200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXOZ",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXP1",
+    "title": "1948 S.Africa 3 Pence (PF66)",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXP1",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXP3",
+    "title": "1948 S.Africa 2.5 Shillings (PF65)",
+    "status": "sold",
+    "sold_price": "1600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXP3",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXP5",
+    "title": "1949 S.Africa 1/4P (PF63BN)",
+    "status": "sold",
+    "sold_price": "580.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXP5",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXP7",
+    "title": "1949 S.Africa Penny (PF64BN)",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXP7",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXP9",
+    "title": "1949 S.Africa 3 Pence (PF64)",
+    "status": "sold",
+    "sold_price": "550.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXP9",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPB",
+    "title": "1949 S.Africa 3 Pence (PF66)",
+    "status": "sold",
+    "sold_price": "700.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPB",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPD",
+    "title": "1949 S.Africa 6 Pence (PF65)",
+    "status": "sold",
+    "sold_price": "660.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPD",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPF",
+    "title": "1949 S.Africa 2.5 Shillings (PF65)",
+    "status": "sold",
+    "sold_price": "1750.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPF",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPH",
+    "title": "1950 S.Africa 1/4P (PF64BN)",
+    "status": "sold",
+    "sold_price": "1500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPH",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPJ",
+    "title": "1950 S.Africa 3 Pence (MS63)",
+    "status": "sold",
+    "sold_price": "580.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPJ",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPL",
+    "title": "1959 S.Africa 1/4P (PF62BN)",
+    "status": "sold",
+    "sold_price": "780.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPL",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPN",
+    "title": "1959 S.Africa 1/2 Penny (PF63BN)",
+    "status": "sold",
+    "sold_price": "740.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPN",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPP",
+    "title": "1959 S.Africa 6Pence (PF66)",
+    "status": "sold",
+    "sold_price": "820.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPP",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPR",
+    "title": "1959 S.Africa 1 Shilling (PF67)",
+    "status": "sold",
+    "sold_price": "3200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPR",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPT",
+    "title": "1959 S.Africa 2 Shillings (PF66)",
+    "status": "sold",
+    "sold_price": "1100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPT",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPV",
+    "title": "1960 S.Africa Penny (MS66RD)",
+    "status": "sold",
+    "sold_price": "2200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPV",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPX",
+    "title": "1896 ZAR 6 Pence (AU50)",
+    "status": "sold",
+    "sold_price": "340.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPX",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXPZ",
+    "title": "1896 ZAR 1 Shilling (VF20)",
+    "status": "sold",
+    "sold_price": "200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXPZ",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQ1",
+    "title": "1896 ZAR 2 Shillings (AU55)",
+    "status": "sold",
+    "sold_price": "700.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQ1",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQ3",
+    "title": "1896 ZAR 2.5 Shillings (AU55)",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQ3",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQ5",
+    "title": "1898 ZAR 1 Penny (AU58)",
+    "status": "sold",
+    "sold_price": "460.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQ5",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQ7",
+    "title": "1974 S. Africa S1R Pretoria Mint Anniversary Morgan Caroll Collection (PF66 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "750.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQ7",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQ9",
+    "title": "1975 S.Africa SR1 Morgan Caroll Collection (PF64)",
+    "status": "sold",
+    "sold_price": "680.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQ9",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQB",
+    "title": "1977 S.Africa SR1 Morgan Carroll Collection (PF64)",
+    "status": "sold",
+    "sold_price": "760.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQB",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQD",
+    "title": "2011 S. Africa S5R Rand 90Th Anniversary (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "1200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQD",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQF",
+    "title": "2013 S.Africa S1R Protea Series Nelson Mandela : Life of a Legend : Mqhekezweni (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQF",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQH",
+    "title": "2021 1Oz Fine Silver Magyarorszag 10 000 Forint Coin",
+    "status": "sold",
+    "sold_price": "1400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQH",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQJ",
+    "title": "2006 Republic of Palau The Volcano Silver Coin",
+    "status": "sold",
+    "sold_price": "2800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQJ",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQL",
+    "title": "2021 1Oz Fine Silver Magyarorszag 10 000 Forint Coin",
+    "status": "sold",
+    "sold_price": "1650.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQL",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQN",
+    "title": "2025 S.Africa 1 oz Fine-Silver Krugerrand 200th Anniversary of Paul Kruger",
+    "status": "sold",
+    "sold_price": "2600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQN",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQP",
+    "title": "1941 S.Africa Penny (MS64BN)",
+    "status": "sold",
+    "sold_price": "1100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQP",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQR",
+    "title": "1941 S.Africa Penny (MS64RB)",
+    "status": "sold",
+    "sold_price": "1500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQR",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQT",
+    "title": "1942 S.Africa 1 Shilling (MS61)",
+    "status": "sold",
+    "sold_price": "520.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQT",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQV",
+    "title": "1953 S.Africa Shilling (MS64)",
+    "status": "sold",
+    "sold_price": "480.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQV",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQX",
+    "title": "1960 S.Africa 1/4 Penny (MS65RB)",
+    "status": "sold",
+    "sold_price": "700.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQX",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXQZ",
+    "title": "1960 S.Africa 6 Pence (MS63)",
+    "status": "sold",
+    "sold_price": "560.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXQZ",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXR1",
+    "title": "2017 S.Africa 1Oz Fine Silver Premium Uncirculated Silver Krugerrand",
+    "status": "sold",
+    "sold_price": "1500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXR1",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXR3",
+    "title": "2018 S.Africa 1 Oz Fine Silver Krugerrand",
+    "status": "sold",
+    "sold_price": "1600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXR3",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXR5",
+    "title": "1894 ZAR Reserve Bank of Australia Gold 1/2 Pond (AU50)",
+    "status": "sold",
+    "sold_price": "7800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXR5",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXR7",
+    "title": "1892 ZAR Gold Double Shaft Pond (AU Details Cleaned)",
+    "status": "sold",
+    "sold_price": "14000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXR7",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXR9",
+    "title": "X1 Pack of 100 S.Africa T. Mboweni R50 Banknotes (AA) in Sequence",
+    "status": "sold",
+    "sold_price": "11600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXR9",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRB",
+    "title": "1990 S.Africa C.L Stals R2 Replacement Banknote (Superb Gem Unc 67)",
+    "status": "sold",
+    "sold_price": "200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRB",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRD",
+    "title": "1951 S.Africa MH de Kock 10 Shillings Specimen Note Printers Proof (Gem Unc 65)",
+    "status": "sold",
+    "sold_price": "3200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRD",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRF",
+    "title": "S.Africa G. de Kock R10 (Y) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "180.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRF",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRH",
+    "title": "S.Africa G. de Kock R10 (Y) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "80.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRH",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRJ",
+    "title": "S.Africa G. de Kock R10 (Y) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "80.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRJ",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRL",
+    "title": "S.Africa G. de Kock R10 (Y) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "80.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRL",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRN",
+    "title": "S.Africa G. de Kock R10 (Y) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "220.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRN",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRP",
+    "title": "S.Africa G. de Kock R20 (Z) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRP",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRR",
+    "title": "S.Africa G. de Kock R20 (Z) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "40.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRR",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRT",
+    "title": "S.Africa G. de Kock R20 (Z) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "80.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRT",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRV",
+    "title": "S.Africa G. de Kock R20 (Z) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "60.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRV",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRX",
+    "title": "S.Africa G. de Kock R20 (Z) Replacement Banknote",
+    "status": "sold",
+    "sold_price": "100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRX",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXRZ",
+    "title": "X2 S.Africa G.de Kock R50 (AA) Banknotes",
+    "status": "sold",
+    "sold_price": "360.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXRZ",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXS1",
+    "title": "X2 S.Africa G.de Kock R50 Banknotes",
+    "status": "sold",
+    "sold_price": "360.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXS1",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
+  },
+  {
+    "row_id": "5-26UXS3",
+    "title": "2005 Belarus Silver Fairy Tales 20 Rubles Coin",
+    "status": "sold",
+    "sold_price": "1550.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26UXS3",
+    "sold_date": "2025-12-21",
+    "auction_title": "Holiday Wonder"
   }
 ]
