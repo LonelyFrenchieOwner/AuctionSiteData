@@ -252720,5 +252720,608 @@
     "url": "https://auctions.bassanis.co.za/lots/view/5-26V7FD",
     "sold_date": "2026-01-11",
     "auction_title": "Paul Kruger Chest"
+  },
+  {
+    "row_id": "5-26Y897",
+    "title": "2003 S.Africa Silver 2.5c Eagles - Flypress Tickey Bakewell Collection (MS65)",
+    "status": "sold",
+    "sold_price": "17000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y897",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y899",
+    "title": "2004 S.Africa Silver 2.5c Spotted Owl - Flypress Tickey (MS69)",
+    "status": "sold",
+    "sold_price": "2600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y899",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89B",
+    "title": "2005 S.Africa Silver 2.5c Vulture - Flypress Double Struck Tickey (Mint Error 65)",
+    "status": "sold",
+    "sold_price": "1950.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89B",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89D",
+    "title": "2005 S.Africa Silver 2.5c Vulture - Flypress Tickey (MS68)",
+    "status": "sold",
+    "sold_price": "1200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89D",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89F",
+    "title": "2006 S.Africa Silver 2.5c Secretary Bird - Flypress Tickey (MS69)",
+    "status": "sold",
+    "sold_price": "2300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89F",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89H",
+    "title": "2007 S.Africa Silver 2.5c Polar Year - Flypress Tickey (MS68)",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89H",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89J",
+    "title": "2008 S.Africa Silver 2.5c Antartica - Flypress Tickey (MS69)",
+    "status": "sold",
+    "sold_price": "2400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89J",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89L",
+    "title": "2009 S.Africa Silver 2.5c Cape of Good Hope - Flypress Tickey (MS68)",
+    "status": "sold",
+    "sold_price": "1400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89L",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89N",
+    "title": "2010 S.Africa S2.5c Mail Steamship - Flypress Tickey (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "1900.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89N",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89Q",
+    "title": "2011 S.Africa Silver 2.5c Van Der Stel - Flypress Tickey (MS69)",
+    "status": "sold",
+    "sold_price": "1850.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89Q",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89S",
+    "title": "2012 S.Africa Silver 2.5c Gautrain - Cape Town Coin Show - Flypress Tickey (PF 69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89S",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89U",
+    "title": "2012 S.Africa 2.5c Gautrain Durban Coin Show - Flypress Tickey (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "650.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89U",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89W",
+    "title": "2013 S.Africa 2.5C Class 35 -Plain Edge Johannesburg Coin Show Bakewell Collection - Flypress Tickey (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89W",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y89Y",
+    "title": "2013 S.Africa 2.5C Class 35 - Durban Coin Show - Flypress Tickey (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y89Y",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8A0",
+    "title": "2014 S.Africa Silver 2.5c Electric Train - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8A0",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8A2",
+    "title": "2014 S.Africa Silver 2.5c Trains of South Africa  - Class 10M3 Durban Coin Show - Flypress Tickey (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8A2",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8A4",
+    "title": "2014 S.Africa S2.5C Trains of South Africa Class 10M3-Johannesburg Coins Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8A4",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8A6",
+    "title": "2015 S.Africa Silver 2.5c Trains of South Africa  Steam Class 19D JHB Coin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8A6",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8A8",
+    "title": "2015 S.Africa Silver 2.5c Trains of South Africa  Steam Class 19D DBNCoin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "3050.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8A8",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AA",
+    "title": "2016 S.Africa 2.5C The Dolos - Durban Coin Show Bakewell Collection Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2750.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AA",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AC",
+    "title": "2016 S.Africa 2.5C The Dolos - Johannesburg Coin Show Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "3050.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AC",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AE",
+    "title": "2016 S.Africa S2.5C Inventions The Dolos - Cape Town Coin Show Flypress Tickey (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "30200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AE",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AG",
+    "title": "2017 S.Africa Silver 2.5c South African Inventions: Heart Transplant DBN Coin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "3000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AG",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AI",
+    "title": "2017 S.Africa Silver 2.5c South African inventions: Heart Transplant CPT Coin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "3600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AI",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AK",
+    "title": "2017 S.Africa Silver 2.5c South African inventions: Heart Transplant JHB Coin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "3300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AK",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AM",
+    "title": "2018 S.Africa Silver 2.5c South African Inventions: Computed Tomography JHB Coin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "3100.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AM",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AO",
+    "title": "2018 S.Africa Silver 2.5c South African Inventions: Computed Tomography DBN Coin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AO",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AQ",
+    "title": "2019 S.Africa Silver 2.5c South African Inventions: Polymer Putty - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AQ",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AS",
+    "title": "2019 S.Africa Silver 2.5c South African Inventions: Polymer Putty JHB Coin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AS",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AU",
+    "title": "2019 S.Africa Silver 2.5c South African Inventions: Polymer Putty DBN Coin Show - Flypress Tickey (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AU",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AW",
+    "title": "2020 S.Africa Silver 2.5c South African Inventions: Retinal Cryoprobe - Flypress Tickey (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "1500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AW",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8AY",
+    "title": "AD 286-310 AE Post-Ref Radiate The Roman Tetrarchy Maximian Historic Coinage Reform",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8AY",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8B0",
+    "title": "1874 ZAR 2 Pence Pattern (SP 63 BN)",
+    "status": "sold",
+    "sold_price": "12800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8B0",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8B2",
+    "title": "1892 ZAR Silver 3 Pence (MS62)",
+    "status": "sold",
+    "sold_price": "5200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8B2",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8B4",
+    "title": "1926 S.Africa 1/2 Penny (MS 63 BN)",
+    "status": "sold",
+    "sold_price": "3200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8B4",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8B6",
+    "title": "1959 S.Africa Silver 5 Shillings Coin (PL64)",
+    "status": "sold",
+    "sold_price": "5500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8B6",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8B8",
+    "title": "1966 S.Africa 20c Pattern Hern-A53 Aluminum (MS63) Bakewell Collection",
+    "status": "sold",
+    "sold_price": "33400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8B8",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BA",
+    "title": "1994 S.Africa R5 Presidential Inauguration No Steps (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "900.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BA",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BC",
+    "title": "1995 S.Africa S1R Railway Centennial Mirrored Train Door  (PF69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BC",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BE",
+    "title": "2008 S.Africa 1 Oz Silver R2 Antartica (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2900.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BE",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BG",
+    "title": "(2011) Norway 3g Gold Nelson Mandela Robben Island (PF 69 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "5800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BG",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BI",
+    "title": "2018 S.Africa 1 Oz Fine Silver Krugerrand (PF70 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "2600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BI",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BK",
+    "title": "2023 G.Britain 1 Oz Fine Silver 2 Pounds Britannia QE II Obverse (MS70)",
+    "status": "sold",
+    "sold_price": "1850.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BK",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BM",
+    "title": "2025 S.Africa 1 Oz Fine Silver Krugerrand JHB Coin Fair Privy (PF68 Ultra Cameo)",
+    "status": "sold",
+    "sold_price": "1750.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BM",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BO",
+    "title": "2025 S.Africa 1 z 200th Anniv of Birth Medal (MS68)",
+    "status": "sold",
+    "sold_price": "1850.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BO",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BQ",
+    "title": "S.Africa G.Rissik R5 Cancelled Specimen Banknote",
+    "status": "sold",
+    "sold_price": "3400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BQ",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BS",
+    "title": "ND(1966) S.Africa R5 Specimen Banknote (Choice Bout Unc 58)",
+    "status": "sold",
+    "sold_price": "5200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BS",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BU",
+    "title": "S.Africa T.W de Jongh  R10 Specimen Banknote",
+    "status": "sold",
+    "sold_price": "3400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BU",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BW",
+    "title": "S.Africa G.de Kock  R20 Specimen Banknote",
+    "status": "sold",
+    "sold_price": "3400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BW",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8BY",
+    "title": "ND(1992-99) S.Africa R50 Banknote Incorrect Watermark Position (Choice Extremely Fine 45)",
+    "status": "sold",
+    "sold_price": "1850.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8BY",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8C0",
+    "title": "1921 S.Africa Clegg One Pound Banknote",
+    "status": "sold",
+    "sold_price": "3300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8C0",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8C2",
+    "title": "1945 S.Africa 1 Pound Cancelled Banknote (Good 6)",
+    "status": "sold",
+    "sold_price": "1550.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8C2",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8C4",
+    "title": "1954-59 S.Africa 5 Pounds Banknote (Gem Unc 65)",
+    "status": "sold",
+    "sold_price": "3300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8C4",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8C6",
+    "title": "2013 FRN San Francisco 2 Dollars Banknote (Superb Gem Unc 68)",
+    "status": "sold",
+    "sold_price": "460.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8C6",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8C8",
+    "title": "1908 Banco Nacional Del Salvador 10 Pesos Banknote",
+    "status": "sold",
+    "sold_price": "400.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8C8",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8CA",
+    "title": "1898 S.Africa Oranje Vrij Staat Post Noot Twee Shillings and Zes Pence",
+    "status": "sold",
+    "sold_price": "800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8CA",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8CC",
+    "title": "1900 S.Africa 10 Pound Gouvernements Noot (Choice Uncirculated 64)",
+    "status": "sold",
+    "sold_price": "4800.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8CC",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8CE",
+    "title": "1892 ZAR Single Shaft One Pond",
+    "status": "sold",
+    "sold_price": "17200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8CE",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8CG",
+    "title": "x10 Karat Bars 0.1g each",
+    "status": "sold",
+    "sold_price": "2300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8CG",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26Y8CI",
+    "title": "2011 S.Africa 1/10 Gold Oz Laureates of the Nobel Peace Price Commemorative Medal- Nelson Rolihlahla Mandela",
+    "status": "sold",
+    "sold_price": "6500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26Y8CI",
+    "sold_date": "2026-01-11",
+    "auction_title": "Weekend Wonder 77"
+  },
+  {
+    "row_id": "5-26V7FF",
+    "title": "1895 ZAR 2.5  Shillings  Paul Kruger Hat and Pipe Trench Art",
+    "status": "sold",
+    "sold_price": "1050.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26V7FF",
+    "sold_date": "2026-01-11",
+    "auction_title": "Paul Kruger Chest"
+  },
+  {
+    "row_id": "5-26V7FH",
+    "title": "1896 ZAR 2.5  Shillings  Paul Kruger Hat and Pipe Trench Art",
+    "status": "sold",
+    "sold_price": "2200.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26V7FH",
+    "sold_date": "2026-01-11",
+    "auction_title": "Paul Kruger Chest"
+  },
+  {
+    "row_id": "5-26V7FJ",
+    "title": "1896 ZAR 2.5  Shillings  Paul Kruger Hat and Pipe Trench Art",
+    "status": "sold",
+    "sold_price": "1000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26V7FJ",
+    "sold_date": "2026-01-11",
+    "auction_title": "Paul Kruger Chest"
+  },
+  {
+    "row_id": "5-26V7FL",
+    "title": "1896 ZAR 2.5  Shillings  Paul Kruger Hat and Pipe Trench Art",
+    "status": "sold",
+    "sold_price": "5600.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26V7FL",
+    "sold_date": "2026-01-11",
+    "auction_title": "Paul Kruger Chest"
+  },
+  {
+    "row_id": "5-26V7FN",
+    "title": "1896 ZAR 2.5  Shillings  Paul Kruger Hat and Pipe Trench Art",
+    "status": "sold",
+    "sold_price": "4300.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26V7FN",
+    "sold_date": "2026-01-11",
+    "auction_title": "Paul Kruger Chest"
+  },
+  {
+    "row_id": "5-26V7FP",
+    "title": "1897 ZAR 2.5  Shillings  Paul Kruger Hat and Pipe Trench Art",
+    "status": "sold",
+    "sold_price": "5500.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26V7FP",
+    "sold_date": "2026-01-11",
+    "auction_title": "Paul Kruger Chest"
+  },
+  {
+    "row_id": "5-26V7FR",
+    "title": "1897 ZAR 2.5  Shillings  Paul Kruger Hat and Pipe Trench Art",
+    "status": "sold",
+    "sold_price": "3000.00",
+    "url": "https://auctions.bassanis.co.za/lots/view/5-26V7FR",
+    "sold_date": "2026-01-11",
+    "auction_title": "Paul Kruger Chest"
   }
 ]
