@@ -1,995 +1,5 @@
 [
   {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBO8",
-    "lot_number": 1,
-    "title": "1959 S.Africa Silver 2 Shillings (MS62)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBO8"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOA",
-    "lot_number": 2,
-    "title": "1941 S.Africa Silver 2.5 Shillings The Kleynhans Collection (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOA"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOC",
-    "lot_number": 3,
-    "title": "1948 S.Africa 2.5 Shillings The Kleynhans Collection (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOC"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOE",
-    "lot_number": 4,
-    "title": "1942 S.Africa 6 Pence The Kleynhans Collection (MS65)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOE"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOG",
-    "lot_number": 5,
-    "title": "1960 S.Africa Silver 6 Pence (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOG"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOI",
-    "lot_number": 6,
-    "title": "1943 S.Africa Silver 1 Shilling (MS62)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOI"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOK",
-    "lot_number": 7,
-    "title": "1952 S.Africa Silver 1 Shilling (MS62)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOK"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOM",
-    "lot_number": 8,
-    "title": "1955 S.Africa Silver 1 Shilling (MS61)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOM"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOO",
-    "lot_number": 9,
-    "title": "1953 S.Africa Silver 2 Shillings (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOO"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOQ",
-    "lot_number": 10,
-    "title": "1954 S.Africa Silver 2 Shillings (MS61)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOQ"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOS",
-    "lot_number": 11,
-    "title": "1948 S.Africa 1/4 Penny Bakewell Collection (MS63BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOS"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOU",
-    "lot_number": 12,
-    "title": "1953 S.Africa 1/4 Penny (MS63BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOU"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOW",
-    "lot_number": 13,
-    "title": "1954 S.Africa 1/4 Penny (MS62BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOW"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBOY",
-    "lot_number": 14,
-    "title": "1955 S.Africa 1/4 Penny (MS63RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBOY"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBP0",
-    "lot_number": 15,
-    "title": "1939 S.Africa 1/2 Penny The Kleynhans Collection (MS64RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBP0"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBP2",
-    "lot_number": 16,
-    "title": "1941 S.Africa 1/2 Penny (MS63BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBP2"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBP4",
-    "lot_number": 17,
-    "title": "1941 S.Africa 1/2 Penny The Kleynhans Collection (MS64RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBP4"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBP6",
-    "lot_number": 18,
-    "title": "1945 S.Africa Penny (MS62BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBP6"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBP8",
-    "lot_number": 19,
-    "title": "1948 S.Africa Penny The Kleynhans Collection (MS65BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBP8"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPA",
-    "lot_number": 20,
-    "title": "1948 S.Africa Penny Bakewell Collection (MS65RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPA"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPC",
-    "lot_number": 21,
-    "title": "1943 S.Africa Silver 3 Pence (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPC"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPE",
-    "lot_number": 22,
-    "title": "1945 S.Africa Silver 3 Pence (MS65)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPE"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPG",
-    "lot_number": 23,
-    "title": "1948 S.Africa Silver 3 Pence (MS62)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPG"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPI",
-    "lot_number": 24,
-    "title": "1940 S.Africa Silver 6 Pence The Kleynhans Collection (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPI"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPK",
-    "lot_number": 25,
-    "title": "1948 S.Africa Penny (PF64RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPK"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPM",
-    "lot_number": 26,
-    "title": "1948 S.Africa Silver 6 Pence (MS65)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPM"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPO",
-    "lot_number": 27,
-    "title": "1948 S.Africa Silver 3 Pence (PF65)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPO"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPQ",
-    "lot_number": 28,
-    "title": "1893 ZAR Silver 2.5 Shillings (F Details Scratched)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPQ"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPS",
-    "lot_number": 29,
-    "title": "1948 S.Africa 1/4 Penny (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPS"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPU",
-    "lot_number": 30,
-    "title": "1963 Rhodesia 1 Penny (MS65RD)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPU"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPW",
-    "lot_number": 31,
-    "title": "1964 Rhodesia 25 Cent (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPW"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBPY",
-    "lot_number": 32,
-    "title": "2017 S.Africa 1 Oz Fine Silver  Krugerrand 50 Year Anniversary (PU)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBPY"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQ0",
-    "lot_number": 33,
-    "title": "2017 S.Africa 1 Oz Fine Silver  Krugerrand 50 Year Anniversary (PU)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQ0"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQ2",
-    "lot_number": 34,
-    "title": "2018 S.Africa R200 Commemorative Banknote (Gem Uncirculated 66)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQ2"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQ4",
-    "lot_number": 35,
-    "title": "2018 S.Africa R100 Commemorative Banknote (Gem Uncirculated 65)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQ4"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQ6",
-    "lot_number": 36,
-    "title": "2018 S.Africa R20 Commemorative Banknote (Superb Gem Unc 67)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQ6"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQ8",
-    "lot_number": 37,
-    "title": "2018 S.Africa R10 Commemorative Banknote (Gem Uncirculated 66)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQ8"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQA",
-    "lot_number": 38,
-    "title": "ND (2005) S.Africa R10 Banknote (Gem Uncirculated 65)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQA"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQC",
-    "lot_number": 39,
-    "title": "Bureau of Engraving & Printing with x4 USA $1 Banknotes",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQC"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQE",
-    "lot_number": 40,
-    "title": "2015 National Bank of the Kyrgyz Republic 10 Com",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQE"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQG",
-    "lot_number": 41,
-    "title": "2024 Samoa 25c Bubo Bubo",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQG"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQI",
-    "lot_number": 42,
-    "title": "2025 France DC Comics 17/18 Superman 10 Euro",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQI"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQK",
-    "lot_number": 43,
-    "title": "2025 France DC Comics 16/18 Batman 10 Euro",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQK"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQM",
-    "lot_number": 44,
-    "title": "2025 France DC Comics 8/18 Batman Le Chevalier Noir 10 Euro",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQM"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQO",
-    "lot_number": 45,
-    "title": "2025 France DC Comics 4/18 Catwoman 10 Euro",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQO"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQQ",
-    "lot_number": 46,
-    "title": "France Mousquetaires Porthos 10 Euro",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQQ"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQS",
-    "lot_number": 47,
-    "title": "2017 China 5 Yuan Brics Xiamen Summit",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQS"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQU",
-    "lot_number": 48,
-    "title": "2017 China 10 Yuan Brics Xiamen Summit",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQU"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQW",
-    "lot_number": 49,
-    "title": "2020 Hungary Kiskunsag National Park 10 000 Forint",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQW"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBQY",
-    "lot_number": 50,
-    "title": "1963 S.Africa 20c",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBQY"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBR0",
-    "lot_number": 51,
-    "title": "1930 S.Africa 2 1/2 Shillings",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBR0"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBR2",
-    "lot_number": 52,
-    "title": "X3 Eastern Caribbean Central Bank $5 Banknotes in Sequence",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBR2"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBR4",
-    "lot_number": 53,
-    "title": "Bank of Mongolia 100 Togrog Year of the Snake Silver Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBR4"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBR6",
-    "lot_number": 54,
-    "title": "X5 2020 Reserve Bank of Zimbabwe ($2; $5; $10; $20; $50; $100) Banknote Set",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBR6"
-  },
-  {
-    "auction_id": "5-28CB5G",
-    "auction_title": "Minted Mondays 48",
-    "lot_id": "5-28CBR8",
-    "lot_number": 55,
-    "title": "2025 S.Africa Fine-Silver Combination Set Odyssey of the Sky- Bateleur Eagle",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28CBR8"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA1Q",
-    "lot_number": 1,
-    "title": "AD 351-354 Const. Gallus Roman Empire BI Centenionalis Issue as Caesar",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA1Q"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA1S",
-    "lot_number": 2,
-    "title": "c.350-300BC Thrace, Byzantium AR Siglos (Ch F)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA1S"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA1U",
-    "lot_number": 3,
-    "title": "2017 S.Africa S1KR Krugerrand 50th Anniv (SP69)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA1U"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA1W",
-    "lot_number": 4,
-    "title": "2017 S.Africa 1 Oz Fine Silver  Krugerrand 50 Year Anniversary (PU)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA1W"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA1Y",
-    "lot_number": 5,
-    "title": "2017 S.Africa 1 Oz Fine Silver  Krugerrand 50 Year Anniversary (PU)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA1Y"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA20",
-    "lot_number": 6,
-    "title": "2022 Armenia 200 Dram Silver Coin",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA20"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA22",
-    "lot_number": 7,
-    "title": "2018 S.Africa 1 Oz Fine Silver  Krugerrand",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA22"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA24",
-    "lot_number": 8,
-    "title": "1929 S.Africa Gold Sovereign (AU55)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA24"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA26",
-    "lot_number": 9,
-    "title": "1900 ZAR Gold Pond (XF45)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA26"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA28",
-    "lot_number": 10,
-    "title": "1989 S.Africa S1R (PF67)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA28"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2A",
-    "lot_number": 11,
-    "title": "1943 S.Africa Silver 2.5 Shillings (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2A"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2C",
-    "lot_number": 12,
-    "title": "1952 S.Africa 1/2 Penny (MS64RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2C"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2E",
-    "lot_number": 13,
-    "title": "1954 S.Africa 1/2 Penny (MS64RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2E"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2G",
-    "lot_number": 14,
-    "title": "1928 S.Africa 1/2 Penny The Kleynhans Collection (AU58BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2G"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2I",
-    "lot_number": 15,
-    "title": "1923 S.Africa Penny (MS62BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2I"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2K",
-    "lot_number": 16,
-    "title": "1930 S.Africa Penny (MS63RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2K"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2M",
-    "lot_number": 17,
-    "title": "1934 S.Africa 1/2 Penny (MS64RB)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2M"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2O",
-    "lot_number": 18,
-    "title": "1935 S.AFrica 1/2 Penny The Kleynhans Collections (MS64BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2O"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2Q",
-    "lot_number": 19,
-    "title": "1923 S.Africa 1/4 Penny (MS65BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2Q"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2S",
-    "lot_number": 20,
-    "title": "1924 S.Africa 1/4 Penny (MS64BN)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2S"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2U",
-    "lot_number": 21,
-    "title": "1957 S.Africa Silver 2 Shillings Bakewell Collection (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2U"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2W",
-    "lot_number": 22,
-    "title": "1958 S.Africa Silver 2 Shillings Bakewell Collection (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2W"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA2Y",
-    "lot_number": 23,
-    "title": "1952 S.Africa Silver 2 Shillings (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA2Y"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA30",
-    "lot_number": 24,
-    "title": "1960 S.Africa Silver 2 Shillings Bakewell Collection (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA30"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA32",
-    "lot_number": 25,
-    "title": "1949 S.Africa Silver 6 Pence (MS65)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA32"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA34",
-    "lot_number": 26,
-    "title": "1948 S.Africa Silver 6 Pence (MS63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA34"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA36",
-    "lot_number": 27,
-    "title": "1947 S.Africa Silver 6 Pence (MS64)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA36"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA38",
-    "lot_number": 28,
-    "title": "1942 Southern Rhodesia Silver Half Crown",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA38"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3A",
-    "lot_number": 29,
-    "title": "2020 Hungary Kiskunsag National Park 10 000 Forint",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3A"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3C",
-    "lot_number": 30,
-    "title": "2020 Hungary 150th Anniversary of the Hungarian Meteorological Service's Foundation Magyarorszag 10000 Print",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3C"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3E",
-    "lot_number": 31,
-    "title": "Bank of Mongolia 100 Togrog Year of the Snake Silver Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3E"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3G",
-    "lot_number": 32,
-    "title": "X6 2019 Reserve Bank of Zimbabwe ($2; $5; $10; $20; $50; $100) Banknote Set",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3G"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3I",
-    "lot_number": 33,
-    "title": "2025 S.Africa 1 Oz Fine-Silver Krugerrand 200th Anniversary of Paul Kruger with book The Numismatic Legacy of President Paul Kruger",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3I"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3K",
-    "lot_number": 34,
-    "title": "2025 S.Africa Fine-Silver Combination Set Odyssey of the Sky- Bateleur Eagle",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3K"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3M",
-    "lot_number": 35,
-    "title": "ND(1973-75) S.Africa R1 Banknote (Superb Gem Unc 67)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3M"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3O",
-    "lot_number": 36,
-    "title": "ND(1981) S.Africa R20 Specimen Banknote (Choice Uncirculated 63)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3O"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3Q",
-    "lot_number": 37,
-    "title": "1975 S.Africa R1 Banknote Printers Proof Progression Print (MS64)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3Q"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3S",
-    "lot_number": 38,
-    "title": "ND (1984) S.Africa R50 Large Format die Proof for the Underprint of the Observe",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3S"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3U",
-    "lot_number": 39,
-    "title": "ND (1984) S.Africa R50 Large Format die Proof for the Observe",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3U"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3W",
-    "lot_number": 40,
-    "title": "X11 Jan van Riebeeck Replica Tokens",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3W"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA3Y",
-    "lot_number": 41,
-    "title": "1975 S.Africa 1c Error Coin Excellent example of Die Rare",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA3Y"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA40",
-    "lot_number": 42,
-    "title": "1955 S.Africa Silver 3 Pence Die Break",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA40"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA42",
-    "lot_number": 43,
-    "title": "S.Africa G.de Kock R20 Replacement (Z) Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA42"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA44",
-    "lot_number": 44,
-    "title": "S.Africa G.de Kock R20 Replacement (Z) Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA44"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA46",
-    "lot_number": 45,
-    "title": "1948 S.Africa M.H de Kock 5 Pounds Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA46"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA48",
-    "lot_number": 46,
-    "title": "1949 S.Africa M.H de Kock 1 Pound Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA48"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4A",
-    "lot_number": 47,
-    "title": "S.Africa M.H de Kock 1 Pound Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4A"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4C",
-    "lot_number": 48,
-    "title": "1947 S.Africa M.H de Kock 10 Shillings Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4C"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4E",
-    "lot_number": 49,
-    "title": "X10 S.Africa L.Kganyaso R20 Banknotes in Sequence",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4E"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4G",
-    "lot_number": 50,
-    "title": "1958 S.Africa M.H de Kock 5 Pounds Banknote",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4G"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4I",
-    "lot_number": 51,
-    "title": "RARE 1902 S.Africa 10 Pound Gouvernments Noot (Te Velde Issue)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4I"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4K",
-    "lot_number": 52,
-    "title": "1900 S.Africa 20 Pound Gouvernmnets Noot (Pretoria Issue)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4K"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4M",
-    "lot_number": 53,
-    "title": "1900 S.Africa 20 Pound Gouvernmnets Noot (Pretoria Issue)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4M"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4O",
-    "lot_number": 54,
-    "title": "1901 S.Africa 5 Pound Gouvernments Noot (Pietersburg Issue)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4O"
-  },
-  {
-    "auction_id": "5-28D9MN",
-    "auction_title": "Landon's Lots 68",
-    "lot_id": "5-28DA4Q",
-    "lot_number": 55,
-    "title": "1900 S.Africa 1 Pound Gouvernments Noot (Pretoria Issue)",
-    "estimate": null,
-    "url": "https://auctions.bassanis.co.za/lots/view/5-28DA4Q"
-  },
-  {
     "auction_id": "5-28DAFY",
     "auction_title": "Crazy Wednesdays 82",
     "lot_id": "5-28DAP9",
@@ -2358,6 +1368,573 @@
     "url": "https://auctions.bassanis.co.za/lots/view/5-28NSQY"
   },
   {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQ5",
+    "lot_number": 1,
+    "title": "1887 UK Silver 1 Shilling (MS63)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQ5"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQ7",
+    "lot_number": 2,
+    "title": "1907 UK Silver 1 Shilling (MS61)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQ7"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQ9",
+    "lot_number": 3,
+    "title": "1910 UK Silver 6 Pence (MS62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQ9"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQB",
+    "lot_number": 4,
+    "title": "1916 UK Silver 1/2 Crown (AU53)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQB"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQD",
+    "lot_number": 5,
+    "title": "1936 S.Africa 1/2 Penny (MS 65 RB)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQD"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQF",
+    "lot_number": 6,
+    "title": "2021 Turkey 20 Lirasi Silver Coin",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQF"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQH",
+    "lot_number": 7,
+    "title": "2011 Israel 63rd Anniversary Commemorative: The Dead Sea Coin",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQH"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQJ",
+    "lot_number": 8,
+    "title": "2006 Republic of Palau The Volcano Silver Coin",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQJ"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQL",
+    "lot_number": 9,
+    "title": "2010 Republic of Armenia Silver 1000 Coin",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQL"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQN",
+    "lot_number": 10,
+    "title": "2016 Equatorial Guinea 1 Oz Fine Silver Codex Gigas Coin",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQN"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQP",
+    "lot_number": 11,
+    "title": "1604 England 6P S-2648 James (VG Details) Obv Graffiti, Bent (2.48g)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQP"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQR",
+    "lot_number": 12,
+    "title": "1924 S.Africa Silver 6 Pence (AU58)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQR"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQT",
+    "lot_number": 13,
+    "title": "1925 S.Africa Silver 2.5 Shillings (AU55)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQT"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQV",
+    "lot_number": 14,
+    "title": "1928 S.Africa 1/4 Penny (MS63BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQV"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQX",
+    "lot_number": 15,
+    "title": "1928 S.Africa Silver 1 Shilling (XF40)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQX"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKQZ",
+    "lot_number": 16,
+    "title": "1928 S.Africa Silver 2 Shillings (AU58)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKQZ"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKR1",
+    "lot_number": 17,
+    "title": "1930 S.Africa 1/2 Penny (MS64BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKR1"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKR3",
+    "lot_number": 18,
+    "title": "1932 S.Africa Silver 2.5 Shillings (AU58)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKR3"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKR5",
+    "lot_number": 19,
+    "title": "1935 S.Africa 1/4 Penny (MS64BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKR5"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKR7",
+    "lot_number": 20,
+    "title": "1937 S.Africa Silver 1 Shilling (MS62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKR7"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKR9",
+    "lot_number": 21,
+    "title": "1938 S.Africa 1/4 Penny (MS64BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKR9"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRB",
+    "lot_number": 22,
+    "title": "1939 S.Africa 1/4 Penny (MS64BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRB"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRD",
+    "lot_number": 23,
+    "title": "1945 S.Africa Silver 2 Shillings (AU58)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRD"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRF",
+    "lot_number": 24,
+    "title": "1945 S.Africa Silver 2 Shillings (MS62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRF"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRH",
+    "lot_number": 25,
+    "title": "1947 S.Africa Silver 2.5 Shillings (PF62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRH"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRJ",
+    "lot_number": 26,
+    "title": "1948 S.Africa Silver 2 Shillings (PF64)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRJ"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRL",
+    "lot_number": 27,
+    "title": "1949 S.Africa 1/2 Penny (PF63BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRL"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRN",
+    "lot_number": 28,
+    "title": "1949 S.Africa Silver 3 Pence (PF67)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRN"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRP",
+    "lot_number": 29,
+    "title": "1949 S.Africa Silver 6 Pence (PF65)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRP"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRR",
+    "lot_number": 30,
+    "title": "1949 S.Africa Silver 2 Shillings (PF66)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRR"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRT",
+    "lot_number": 31,
+    "title": "1949 S.Africa Silver 2.5 Shillings (PF66)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRT"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRV",
+    "lot_number": 32,
+    "title": "1949 S.Africa Silver 5 Shillings (PF65)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRV"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRX",
+    "lot_number": 33,
+    "title": "1950 S.Africa 1/4 Penny (PF65BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRX"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKRZ",
+    "lot_number": 34,
+    "title": "1957 S.Africa Silver 5 Shillings (MS62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKRZ"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKS1",
+    "lot_number": 35,
+    "title": "Undated S.Africa 1c Blank Planchet Mint Error",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKS1"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKS3",
+    "lot_number": 36,
+    "title": "1894 ZAR Penny (MS 62 BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKS3"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKS5",
+    "lot_number": 37,
+    "title": "1896 ZAR Silver 2.5 Shillings (MS62+)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKS5"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKS7",
+    "lot_number": 38,
+    "title": "1898 S.Africa Penny (MS 63 BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKS7"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKS9",
+    "lot_number": 39,
+    "title": "1924 S.Africa Penny (MS 62 BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKS9"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSB",
+    "lot_number": 40,
+    "title": "1928 S.Africa Gold Sovereign (MS63)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSB"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSD",
+    "lot_number": 41,
+    "title": "1930 S.Africa Gold Sovereign Bakewell Collection (MS62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSD"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSF",
+    "lot_number": 42,
+    "title": "1937 S.Africa 1/2 Penny (MS 64 BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSF"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSH",
+    "lot_number": 43,
+    "title": "1938 S.Africa Silver 2 Shillings The Kleynhans Collection (AU58)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSH"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSJ",
+    "lot_number": 44,
+    "title": "1939 S.Africa Penny The Bakewell Collection (MS 64 BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSJ"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSL",
+    "lot_number": 45,
+    "title": "1945/3 S.Africa Silver 3 Pence (MS65)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSL"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSN",
+    "lot_number": 46,
+    "title": "1946 S.Africa Silver 3 Pence (MS64)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSN"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSP",
+    "lot_number": 47,
+    "title": "1948 S.Africa Silver 2 Shillings Bakewell Collection (MS63)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSP"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSR",
+    "lot_number": 48,
+    "title": "2017 S.Africa 1 Oz Fine Silver Premium Uncirculated Krugerrand",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSR"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKST",
+    "lot_number": 49,
+    "title": "2018 S.Africa 1 Oz Fine Silver Krugerrand",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKST"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSV",
+    "lot_number": 50,
+    "title": "2017 S.Africa 1 Oz Fine Silver Premium Uncirculated Krugerrand",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSV"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSX",
+    "lot_number": 51,
+    "title": "1892 ZAR Gold Double Shaft Pond",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSX"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKSZ",
+    "lot_number": 52,
+    "title": "(1983-90)  S.Africa Reserve Bank G. de Kock R2 Two Prefix  Banknote (Gem UNC 66)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKSZ"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKT1",
+    "lot_number": 53,
+    "title": "(1962-65) S.Africa Reserve Bank G. Rissik R1 Perforated Cancelled Banknote (Choice UNC 64 )",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKT1"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKT3",
+    "lot_number": 54,
+    "title": "2017 S.Arica S1KR Krugerrand 50th Anniv (SP69)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKT3"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKT5",
+    "lot_number": 55,
+    "title": "1954 S.Africa MH de Kock 1 Pound Specimen Banknote (AU58)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKT5"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKT7",
+    "lot_number": 56,
+    "title": "1948 S.Africa MH de Kock 10 Shillings Specimen Banknote (AU55)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKT7"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKT9",
+    "lot_number": 57,
+    "title": "1864 Colonial Bank of Natal 1 Pound Banknote",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKT9"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKTB",
+    "lot_number": 58,
+    "title": "1966-1974 S.Africa R1 Printers Proof Blank Reverse Banknote (MS61)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKTB"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKTD",
+    "lot_number": 59,
+    "title": "1925-1928  S.Africa Reserve Bank W.H Clegg 1 Pound Banknote (Very Fine 20)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKTD"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKTF",
+    "lot_number": 60,
+    "title": "1975 S.Africa T.W de Jongh R1 Printers Proof Smaller Size Banknote (MS66)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKTF"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKTH",
+    "lot_number": 61,
+    "title": "2006 S.Africa Desmond Tutu Protea Series R25 1 Oz 24 Carat Gold",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKTH"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKTJ",
+    "lot_number": 62,
+    "title": "2008 S.Africa Protea Proof Coin Set: Mahatma Gandhi",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKTJ"
+  },
+  {
+    "auction_id": "5-28QKGK",
+    "auction_title": "Weekend Wonder 80",
+    "lot_id": "5-28QKTL",
+    "lot_number": 63,
+    "title": "2007 S.Africa Mandela and de Klerk Protea Proof Coin Set",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28QKTL"
+  },
+  {
     "auction_id": "5-280PFX",
     "auction_title": "Bassani's Confirmation Auction 13- Deal or No Deal?",
     "lot_id": "5-280PTA",
@@ -2446,6 +2023,546 @@
     "title": "1933 S.Africa Postmus 20 Pounds Banknote (Very Fine 25)",
     "estimate": null,
     "url": "https://auctions.bassanis.co.za/lots/view/5-280PTS"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6PR",
+    "lot_number": 1,
+    "title": "1933 S.Africa Silver 2.5 Shillings",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6PR"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6PT",
+    "lot_number": 2,
+    "title": "1935 S.Africa Silver 2.5 Shillings",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6PT"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6PV",
+    "lot_number": 3,
+    "title": "1936 S.Africa Silver 2.5 Shillings",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6PV"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6PX",
+    "lot_number": 4,
+    "title": "1942 S.Africa Silver 2.5 Shillings",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6PX"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6PZ",
+    "lot_number": 5,
+    "title": "1943 S.Africa Silver 2.5 Shillings",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6PZ"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6Q1",
+    "lot_number": 6,
+    "title": "1887 UK Silver 4 Shillings Roman I in date (VF Details Scratched)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6Q1"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6Q3",
+    "lot_number": 7,
+    "title": "1889 UK Silver 4 Shillings (XF45)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6Q3"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6Q5",
+    "lot_number": 8,
+    "title": "1890 UK Silver 4 Shillings (VF35)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6Q5"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6Q7",
+    "lot_number": 9,
+    "title": "1944 Southern Rhodesia Silver 2 Shillings (MS62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6Q7"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6Q9",
+    "lot_number": 10,
+    "title": "1938 UK Silver 2 Shillings (AU55)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6Q9"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QB",
+    "lot_number": 11,
+    "title": "1937 Southern Rhodesia Silver 1/2 Crown (MS62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QB"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QD",
+    "lot_number": 12,
+    "title": "1887 UK Silver 1/2 Crown- Victoria (AU58)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QD"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QF",
+    "lot_number": 13,
+    "title": "1935 S.Africa 1/2 Penny (MS62BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QF"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QH",
+    "lot_number": 14,
+    "title": "1931 S.Africa 1/2 Penny (AU58BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QH"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QJ",
+    "lot_number": 15,
+    "title": "1926 S.Africa 1/2 Penny (AU58BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QJ"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QL",
+    "lot_number": 16,
+    "title": "ND (1965-1989) S.Africa 1c Blank Van Der Spuy Collection",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QL"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QN",
+    "lot_number": 17,
+    "title": "1983 S.Africa 1c Mint Error Off Centre Strike",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QN"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QP",
+    "lot_number": 18,
+    "title": "1970 S.Africa 50c Mint Error Off Centre Strike",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QP"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QR",
+    "lot_number": 19,
+    "title": "ND(1970-1989) S.Africa 50c Mint Error Planchet Error Struck on a 2c",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QR"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QT",
+    "lot_number": 20,
+    "title": "1965 S.Africa 2c Afrikaans Mint Error Thin Flan",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QT"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QV",
+    "lot_number": 21,
+    "title": "1959 S.Africa Gold Pond (PF62)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QV"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QX",
+    "lot_number": 22,
+    "title": "1959 S.Africa Gold 1/2 Pond (PF61)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QX"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6QZ",
+    "lot_number": 23,
+    "title": "USA Golden State Mint 1/10th oz Fine Silver Medallion Van Der Spuy Collection (PF70)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6QZ"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6R1",
+    "lot_number": 24,
+    "title": "2020 S.Africa 1 oz Fine Silver Krugerrand Van Der Spuy Collection (MS66)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6R1"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6R3",
+    "lot_number": 25,
+    "title": "2020 S.Africa 1 oz Fine Silver Krugerrand Van Der Spuy Collection (MS69)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6R3"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6R5",
+    "lot_number": 26,
+    "title": "2015 Austria 1 oz Fine Silver 1.5 Pound Vienna Phillharmonic Van Der Spuy Collection (PF65)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6R5"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6R7",
+    "lot_number": 27,
+    "title": "1953 S.Africa Silver 5 Shillings Coin (PF67)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6R7"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6R9",
+    "lot_number": 28,
+    "title": "USA 1 Troy Ounce Fine Nickel Bar",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6R9"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RB",
+    "lot_number": 29,
+    "title": "1 Troy Ounce Titanium  Bar",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RB"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RD",
+    "lot_number": 30,
+    "title": "X3 2007 Reserve Bank of Zimbabwe One Dollar Graded Banknotes in Sequence (MS64)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RD"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RF",
+    "lot_number": 31,
+    "title": "1937 S.Africa Silver 6 Pence Bakewell Collection (MS65)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RF"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RH",
+    "lot_number": 32,
+    "title": "1952 S.Africa 1/2 Penny (MS63RB)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RH"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RJ",
+    "lot_number": 33,
+    "title": "1942 S.Africa Penny (MS64RB)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RJ"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RL",
+    "lot_number": 34,
+    "title": "1957 S.Africa 1/2 Penny Kleynhans Collection (MS63RD)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RL"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RN",
+    "lot_number": 35,
+    "title": "1958 S.Africa 1/2 Penny (MS62BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RN"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RP",
+    "lot_number": 36,
+    "title": "1939 S.Africa Penny (MS64RB)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RP"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RR",
+    "lot_number": 37,
+    "title": "1960 S.Africa Silver 6 Pence (MS64)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RR"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RT",
+    "lot_number": 38,
+    "title": "1950 S.Africa 1/2 Penny (MS64BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RT"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RV",
+    "lot_number": 39,
+    "title": "1951 S.Africa 1/2 Penny (MS65BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RV"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RX",
+    "lot_number": 40,
+    "title": "1960 S.Africa Silver 2 Shillings (MS64)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RX"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6RZ",
+    "lot_number": 41,
+    "title": "1960 S.Africa Silver 3 Pence (MS65)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6RZ"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6S1",
+    "lot_number": 42,
+    "title": "1959 S.Africa 3 Pence Kleynhans Collection (MS64)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6S1"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6S3",
+    "lot_number": 43,
+    "title": "1952 S.Africa Silver 2.5 Shillings (MS63)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6S3"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6S5",
+    "lot_number": 44,
+    "title": "1958 S.Africa Penny (MS65RD)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6S5"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6S7",
+    "lot_number": 45,
+    "title": "1960 S.Africa Penny (MS64RD)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6S7"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6S9",
+    "lot_number": 46,
+    "title": "1960 S.Africa Silver 1 Shilling (MS63)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6S9"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SB",
+    "lot_number": 47,
+    "title": "1958 S.Africa Penny (MS63RB)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SB"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SD",
+    "lot_number": 48,
+    "title": "1959 S.Africa Penny (MS63BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SD"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SF",
+    "lot_number": 49,
+    "title": "1951 S.Africa Penny (MS63RB)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SF"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SH",
+    "lot_number": 50,
+    "title": "1954  S.Africa 1/2 Penny Bakewell Collection (MS61BN)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SH"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SJ",
+    "lot_number": 51,
+    "title": "X2 S.Africa Reserve Bank C.L Stals R2 (AA) Banknotes",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SJ"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SL",
+    "lot_number": 52,
+    "title": "S.Africa T.W de Jongh R1 Replacement (Z) Banknote",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SL"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SN",
+    "lot_number": 53,
+    "title": "S.Africa T.W de Jongh R1 Replacement (Z) Banknote",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SN"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SP",
+    "lot_number": 54,
+    "title": "1947 S.Africa One Pound (A) Banknote",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SP"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SR",
+    "lot_number": 55,
+    "title": "X3 1956 S.Africa M.H de Kock 1 Pound Banknotes in Sequence",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SR"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6ST",
+    "lot_number": 56,
+    "title": "1958 S.Africa M.H de Kock 5 Pounds Banknote",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6ST"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SV",
+    "lot_number": 57,
+    "title": "1900 S.Africa 1 Pound Gouvernments Noot (Pretoria Issue)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SV"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SX",
+    "lot_number": 58,
+    "title": "1900 S.Africa 5 Pound Gouvernmnets Noot (Pretoria Issue)",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SX"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6SZ",
+    "lot_number": 59,
+    "title": "S.Africa G.de Kock R20 Replacement (Z) Banknote",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6SZ"
+  },
+  {
+    "auction_id": "5-28R6BN",
+    "auction_title": "Minted Mondays 49",
+    "lot_id": "5-28R6T1",
+    "lot_number": 60,
+    "title": "1944 S.Africa 10 Shillings Banknote",
+    "estimate": null,
+    "url": "https://auctions.bassanis.co.za/lots/view/5-28R6T1"
   },
   {
     "auction_id": "5-28AMJM",
