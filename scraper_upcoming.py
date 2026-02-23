@@ -32,14 +32,25 @@ async def scrape_site(base):
 
         all_data = []
         for a in auctions:
-            aid, title = a.get("row_id"), a.get("title")
-            print(f"  ↳ Auction {aid}: {title}")
+            aid = a.get("row_id")
+            title = a.get("title")
+            
+            # Pull the exact date keys we just found
+            # Fallback to 'time_start' if it's strictly a timed auction without a live component
+            start_date = a.get("time_start_live_auction") or a.get("time_start")
+            end_date = a.get("effective_end_time")
+
+            print(f"  ↳ Auction {aid}: {title} (Starts: {start_date})")
+            
             lots = await fetch_lots(session, base, aid)
             print(f"     {len(lots)} lots")
+            
             for lot in lots:
                 all_data.append({
                     "auction_id": aid,
                     "auction_title": title,
+                    "start_date": start_date,  # <-- Injects the date
+                    "end_date": end_date,      # <-- Injects the end time
                     "lot_id": lot.get("row_id"),
                     "lot_number": lot.get("lot_number"),
                     "title": lot.get("title"),
