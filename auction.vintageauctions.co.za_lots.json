@@ -56288,5 +56288,914 @@
     "url": "https://auction.vintageauctions.co.za/lots/view/5-28BWYO",
     "sold_date": "2026-02-17",
     "auction_title": "World Coins Tuesday Auction 201 Lots - 26007"
+  },
+  {
+    "row_id": "5-27PEYZ",
+    "title": "The Gold Sovereign",
+    "status": "active",
+    "sold_price": "320.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEYZ",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZ4",
+    "title": "South Africa (1914-1964) Nasionale Party Medallion",
+    "status": "active",
+    "sold_price": "820.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZ4",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZ6",
+    "title": "Antique Silver Pocket Watch (.800) (45mm) with Chain (.500) (398mm) (69.2g)",
+    "status": "active",
+    "sold_price": "1250.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZ6",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZ8",
+    "title": "Antique Silver (.935) Pocket Watch (.935) (40mm) (45.0g)",
+    "status": "active",
+    "sold_price": "940.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZ8",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZA",
+    "title": "ZAR 1888 1 Penny - OFS KM-PN13 NGC (PF65BN)",
+    "status": "active",
+    "sold_price": "12400.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZA",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZC",
+    "title": "ZAR 1892 1 Penny NGC (MS64BN)",
+    "status": "active",
+    "sold_price": "3500.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZC",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZE",
+    "title": "ZAR 1894 1 Penny NGC (AU53BN)",
+    "status": "active",
+    "sold_price": "960.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZE",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZG",
+    "title": "ZAR 1898 1 Penny NGC (MS63RB)",
+    "status": "active",
+    "sold_price": "880.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZG",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZI",
+    "title": "ZAR 1898 1 Penny SANGS (MS63RB) UNC",
+    "status": "active",
+    "sold_price": "460.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZI",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZK",
+    "title": "ZAR 1896 Silver 3P Tickey NGC (MS61)",
+    "status": "active",
+    "sold_price": "2100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZK",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZM",
+    "title": "ZAR 1895 Silver 6P Sixpence NGC (AU55)",
+    "status": "active",
+    "sold_price": "820.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZM",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZO",
+    "title": "ZAR 1896 Silver 6P Sixpence NGC (MS63)",
+    "status": "active",
+    "sold_price": "3500.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZO",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZQ",
+    "title": "ZAR 1897 Silver 6P Sixpence NGC (MS63)",
+    "status": "active",
+    "sold_price": "2200.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZQ",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZS",
+    "title": "ZAR 1893 Silver 1 Shilling NGC (XF40)",
+    "status": "active",
+    "sold_price": "1500.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZS",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZU",
+    "title": "ZAR 1896 Silver 1 Shilling NGC (AU50)",
+    "status": "active",
+    "sold_price": "1300.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZU",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZW",
+    "title": "ZAR 1894 Silver 2.5 Shillings NGC (XF45)",
+    "status": "active",
+    "sold_price": "780.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZW",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PEZY",
+    "title": "ZAR 1897 Silver 2.5 Shillings NGC (AU55)",
+    "status": "active",
+    "sold_price": "1250.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PEZY",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF00",
+    "title": "ZAR 1892 Silver SS 5 Shillings NGC (XF40)",
+    "status": "active",
+    "sold_price": "3300.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF00",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF02",
+    "title": "ZAR 1898 3P - Sammy Marks Tickey - Restrike (22ct) (2.61g) (16.3mm)",
+    "status": "active",
+    "sold_price": "5600.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF02",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF04",
+    "title": "ZAR 1892 1/2 Pond (D/S) SANGS (XF40)",
+    "status": "active",
+    "sold_price": "9100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF04",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF06",
+    "title": "ZAR 1896 1 Pond NGC (AU50)",
+    "status": "active",
+    "sold_price": "15600.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF06",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF08",
+    "title": "Union 1923 1/4P - Farthing NGC (MS64BN)",
+    "status": "active",
+    "sold_price": "540.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF08",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0A",
+    "title": "Union 1928 1/4P - Farthing NGC (MS64BN)",
+    "status": "active",
+    "sold_price": "1050.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0A",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0C",
+    "title": "Union 1931 \"1/4 Penny\" NGC (MS63BN)",
+    "status": "active",
+    "sold_price": "1600.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0C",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0E",
+    "title": "Union 1929 1/2P - Half Penny NGC (MS63BN)",
+    "status": "active",
+    "sold_price": "1800.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0E",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0G",
+    "title": "Union ND (1900) 1 Penny - Kaalpenny with Rim NGC",
+    "status": "active",
+    "sold_price": "2900.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0G",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0I",
+    "title": "Union 1926  1 Penny NGC (MS62BN)",
+    "status": "active",
+    "sold_price": "2700.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0I",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0K",
+    "title": "Union 1936  1 Penny NGC (MS64BN)",
+    "status": "active",
+    "sold_price": "1950.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0K",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0M",
+    "title": "Union 1937  1 Penny NGC (MS65BN)",
+    "status": "active",
+    "sold_price": "3100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0M",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0O",
+    "title": "Union 1924  3P Tickey NGC (AU58)",
+    "status": "active",
+    "sold_price": "460.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0O",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0Q",
+    "title": "Union 1932  3P Tickey NGC (MS63)",
+    "status": "active",
+    "sold_price": "600.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0Q",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0S",
+    "title": "Union 1934  6P Sixpence NGC (MS62)",
+    "status": "active",
+    "sold_price": "1050.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0S",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0U",
+    "title": "Union 1926  1 Shilling NGC (XF45)",
+    "status": "active",
+    "sold_price": "820.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0U",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0W",
+    "title": "Union 1932  1 Shilling NGC (MS62)",
+    "status": "active",
+    "sold_price": "840.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0W",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF0Y",
+    "title": "Union 1934  1 Shilling NGC (AU55)",
+    "status": "active",
+    "sold_price": "820.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF0Y",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF10",
+    "title": "Union 1930  2 Shillings NGC (AU58)",
+    "status": "active",
+    "sold_price": "2200.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF10",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF12",
+    "title": "Union 1936  2 Shillings NGC (AU55)",
+    "status": "active",
+    "sold_price": "640.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF12",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF14",
+    "title": "Union 1937  2 Shillings NGC (MS61)",
+    "status": "active",
+    "sold_price": "900.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF14",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF16",
+    "title": "Union 1927  2.5 Shillings NGC (AU53)",
+    "status": "active",
+    "sold_price": "4100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF16",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF18",
+    "title": "Union 1928  2.5 Shillings NGC (XF45)",
+    "status": "active",
+    "sold_price": "540.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF18",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1A",
+    "title": "RSA 1965 Silver 1 Rand - English NGC (PF65)",
+    "status": "active",
+    "sold_price": "980.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1A",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1C",
+    "title": "Union 1954  1/2 Pound NGC (PF65)",
+    "status": "active",
+    "sold_price": "10200.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1C",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1E",
+    "title": "Union 1928  1 Sovereign NGC (AU58)",
+    "status": "active",
+    "sold_price": "19400.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1E",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1G",
+    "title": "SA 2008 International Polar Year (2007 - 2008) - Combo Set - National Antarctic Programme (Stg) (55.04g)",
+    "status": "active",
+    "sold_price": "3100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1G",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1I",
+    "title": "SA 2009 The Tickey & Crown Silver Coin Series - Maritime History of SA (Stg) (51.04g)",
+    "status": "active",
+    "sold_price": "4600.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1I",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1K",
+    "title": "SA 2011 The South African Reserve Bank 90th Anniversary Proof Set *No 100 Pound Banknote",
+    "status": "active",
+    "sold_price": "1000.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1K",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1M",
+    "title": "SA 2011 Peace Park Series Proof Coin Set - Great Limpopo Transfrontier Park (Stg) (135.097g) - Limited edition:159*",
+    "status": "active",
+    "sold_price": "5300.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1M",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1O",
+    "title": "SA 2017 Silver R5 & R10 -  Man and the Biosphere Colour Set (Stg) (134.504g)",
+    "status": "active",
+    "sold_price": "11400.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1O",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1Q",
+    "title": "SA 2018 Silver 1 Oz Colour Coins - Waterberg Biosphere Reserve - Prestige set (Stg) (134.504g) *Mintage:500",
+    "status": "active",
+    "sold_price": "11400.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1Q",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1S",
+    "title": "SA 2019 Silver 1 Oz Colour Coins - Man and the Biosphere Kruger to Canyons Bio Reserve Set (Stg) (134.504g) *Mintage worldwide:1000 only",
+    "status": "active",
+    "sold_price": "18400.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1S",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1U",
+    "title": "SA 2019 R1 Fine - Silver Krugerrand & R2 Polymer Putty Crown Combination Set (64.733g)",
+    "status": "active",
+    "sold_price": "5300.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1U",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1W",
+    "title": "SA 2024 Proof Coin Set",
+    "status": "active",
+    "sold_price": "620.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1W",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF1Y",
+    "title": "SA 2025 Proof Coin Set",
+    "status": "active",
+    "sold_price": "620.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF1Y",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF20",
+    "title": "SA 2003 Wildlife Series - The Rhino - Survivor of Africa -  50c - 2 (Oz) (Stg) (76.252g & 50mm)",
+    "status": "active",
+    "sold_price": "3400.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF20",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF22",
+    "title": "SA - Liberty Life Silver Commemorative Medallion  - The Greatest One - day International Cricket Match of All Time (.999) (18.25g)",
+    "status": "active",
+    "sold_price": "720.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF22",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF24",
+    "title": "SA 2011  2 Rand - 50 Year Anniv. of the WWF for Nature NGC (PF69UC)",
+    "status": "active",
+    "sold_price": "3600.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF24",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF26",
+    "title": "SA 2012 2 Rand - 100th Anniv. - South Pole Discovery - 90 Degrees South Privy NGC (PF67UC)",
+    "status": "active",
+    "sold_price": "3400.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF26",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF28",
+    "title": "SA 2012 20 Cent 1 (Oz) Peace Park Series - Greater Mapungubwe Transfrontier Conservation Area (Stg) (33.626g & 38.725mm)",
+    "status": "active",
+    "sold_price": "1850.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF28",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2A",
+    "title": "SA 2015 5 Cent 1/4 (Oz) - Marine Protected Areas (Stg) (8.406g & 27mm)",
+    "status": "active",
+    "sold_price": "500.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2A",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2C",
+    "title": "SA 2016 Silver Proof Colour Finished 10 Rand Coin - Orange-Breasted Sunbird (Stg) (33.626g & 38.725mm)",
+    "status": "active",
+    "sold_price": "4100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2C",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2E",
+    "title": "SA 2016 Silver Proof Colour Finished 5 Rand Coin - Blue Bearded Disa (Stg) (33.626g & 38.725mm)",
+    "status": "active",
+    "sold_price": "3500.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2E",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2G",
+    "title": "SA 2016 Silver Proof Colour Finished 5 Rand Coin - Cliff Gladiolus  (Stg) (33.626g & 38.725mm)",
+    "status": "active",
+    "sold_price": "3800.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2G",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2I",
+    "title": "SA 2016 Silver Proof Colour Finished 10 Rand Coin - Cape Rock Jumper (Stg) (33.626g & 38.725mm)",
+    "status": "active",
+    "sold_price": "4200.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2I",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2K",
+    "title": "SA 2017 Silver Proof 1 Rand - Protea Series - Life of a Legend Nelson Mandela (Stg) (15g & 32.69mm)",
+    "status": "active",
+    "sold_price": "920.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2K",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2M",
+    "title": "SA 2017 Silver Proof 50 Rand - O.R. Tambo Centenary (1917-2017) (Stg) (33.626g &38.725mm)",
+    "status": "active",
+    "sold_price": "1800.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2M",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2O",
+    "title": "SA 2018 Silver 1 (Oz) Krugerrand - Great Wall of China Privy (31.107g & 38.725mm)",
+    "status": "active",
+    "sold_price": "3100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2O",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2Q",
+    "title": "SA 2018 Silver 1 (Oz) Krugerrand NGC (PF67UC)",
+    "status": "active",
+    "sold_price": "2500.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2Q",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2S",
+    "title": "SA 2018 Silver 2 Rand - FIFA World Cup Russia NGC (PF69UC)",
+    "status": "active",
+    "sold_price": "2800.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2S",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2U",
+    "title": "SA 2019 Silver 25 Rand NGC (MS69)",
+    "status": "active",
+    "sold_price": "2400.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2U",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2W",
+    "title": "SA 2019 Silver 1(Oz) Krugerrand NGC (PF70UC)",
+    "status": "active",
+    "sold_price": "4100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2W",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF2Y",
+    "title": "SA 2020 The Big Five: Leopard Fine Silver 1 (Oz) Brilliant UNC Coin (.999) (31.107g & 38.725mm)",
+    "status": "active",
+    "sold_price": "2100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF2Y",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF30",
+    "title": "SA 2022 Silver 1 (Oz) R5 Lion NGC (PF70UC)",
+    "status": "active",
+    "sold_price": "2800.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF30",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF32",
+    "title": "SA 2022 Silver 1 (Oz) KR - Lion Privy NGC (PF69UC)",
+    "status": "active",
+    "sold_price": "2700.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF32",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF34",
+    "title": "SA 2022 Silver 1 (Oz) R5 Rhino NGC (PF69UC)",
+    "status": "active",
+    "sold_price": "1850.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF34",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF36",
+    "title": "SA 2022 Silver 1 (Oz) KR - Rhino Privy NGC (PF69UC)",
+    "status": "active",
+    "sold_price": "2900.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF36",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF38",
+    "title": "SA 2023 Silver 1 (Oz) R5 Buffalo NGC (PF70UC)",
+    "status": "active",
+    "sold_price": "2100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF38",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3A",
+    "title": "SA 2023 Silver 1 (Oz) KR - Buffalo Privy NGC (PF70UC)",
+    "status": "active",
+    "sold_price": "3900.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3A",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3C",
+    "title": "SA 2023 Silver 1 (Oz) R5 Leopard NGC (PF70UC)",
+    "status": "active",
+    "sold_price": "2100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3C",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3E",
+    "title": "SA 2023 Silver 1 (Oz) KR - Leopard Privy NGC (PF70UC)",
+    "status": "active",
+    "sold_price": "4000.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3E",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3G",
+    "title": "SA 2024 Silver 1(Oz) Krugerrand - JHB Coin Fair Privy NGC (PF69UC)",
+    "status": "active",
+    "sold_price": "2700.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3G",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3I",
+    "title": "SA 2024 Silver 2 (Oz) Krugerrand (62.214g & 50mm)",
+    "status": "active",
+    "sold_price": "4600.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3I",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3K",
+    "title": "SA 2025 The Big Five: Rhino Fine Silver 1 (Oz) Brilliant UNC Coin (.999) (31.107g & 38.725mm)",
+    "status": "active",
+    "sold_price": "1950.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3K",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3M",
+    "title": "SA 2025 Silver 1(Oz) Krugerrand - JHB Coin Fair Privy (31.107g & 38.725mm)",
+    "status": "active",
+    "sold_price": "2100.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3M",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3O",
+    "title": "SA 1967 Gold 1 (Oz) Krugerrand  NGC (PF64)",
+    "status": "active",
+    "sold_price": "102000.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3O",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3Q",
+    "title": "SA 1969 Gold 1 (Oz) Krugerrand  NGC (PF68UC)",
+    "status": "active",
+    "sold_price": "115000.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3Q",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3S",
+    "title": "Ireland 1933 3 Pence NGC (MS61)",
+    "status": "active",
+    "sold_price": "420.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3S",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3U",
+    "title": "Southern Rhodesia 1942 Penny NGC (MS62)",
+    "status": "active",
+    "sold_price": "1500.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3U",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3W",
+    "title": "Austria 1985 Silver 500 Schilling (Stg) (24g & 37mm)",
+    "status": "active",
+    "sold_price": "840.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3W",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF3Y",
+    "title": "Australia 1938 Crown (Stg - 28.28gr) NGC (AU Details) Cleaned",
+    "status": "active",
+    "sold_price": "540.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF3Y",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF40",
+    "title": "Canada 1900 25 Cent (Stg-5.81gr) NGC (AU58)",
+    "status": "active",
+    "sold_price": "340.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF40",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF42",
+    "title": "Canada 1949 1 Dollar (.800 Ag - 23.3276gr) NGC (MS65)",
+    "status": "active",
+    "sold_price": "820.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF42",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF44",
+    "title": "Canada 1980 1 Dollar (.500) (23.3276g & 35mm)",
+    "status": "active",
+    "sold_price": "500.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF44",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF46",
+    "title": "Germany 1903D Mark NGC (AU Details) Cleaned",
+    "status": "active",
+    "sold_price": "240.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF46",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF48",
+    "title": "Italy 1807 5 Fran - Lucca & Piombino NGC (VF30)",
+    "status": "active",
+    "sold_price": "1050.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF48",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF4A",
+    "title": "Ireland 1935 2 Shillings NGC (AU55)",
+    "status": "active",
+    "sold_price": "720.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF4A",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF4C",
+    "title": "New Zealand 1949 Crown (.500) (28.2800g & 38.8mm)",
+    "status": "active",
+    "sold_price": "520.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF4C",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF4E",
+    "title": "Palestine 1933 100 Mils NGC (AU53)",
+    "status": "active",
+    "sold_price": "1550.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF4E",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF4G",
+    "title": "Southern Rhodesia 1946 Half Crown NGC (AU Details) Cleaned",
+    "status": "active",
+    "sold_price": "360.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF4G",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF4I",
+    "title": "USA 1923 Silver 10 Cents NGC (AU58FB)",
+    "status": "active",
+    "sold_price": "320.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF4I",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF4K",
+    "title": "SA 2008 Platinum 1/10oz Commemorative Medal - N.R. Mandela 90 years",
+    "status": "active",
+    "sold_price": "5200.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF4K",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
+  },
+  {
+    "row_id": "5-27PF4M",
+    "title": "USA 2010 Eagle 5 Dollars - Early Releases NGC (MS70)",
+    "status": "active",
+    "sold_price": "9600.00",
+    "url": "https://auction.vintageauctions.co.za/lots/view/5-27PF4M",
+    "sold_date": "2026-02-25",
+    "auction_title": "Showcase Tuesday Auction 101 Lots - 26008"
   }
 ]
