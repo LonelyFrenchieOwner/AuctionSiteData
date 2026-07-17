@@ -49,14 +49,34 @@ def pick_sold_date(lot: dict) -> str | None:
     )
     return iso_to_date_str(t) if t else None
 
-async def fetch_page(session: aiohttp.ClientSession, base: str, page: int):
+async def fetch_page(session: aiohttp.ClientSession, base: str, page: int, retries: int = 5):
+    """Fetch one page with exponential backoff.
+
+    The auction platform intermittently answers 400/429/5xx under load; a
+    single transient error must not kill the whole daily run (that is what
+    left the feed stale for weeks and got the workflow auto-disabled).
+    """
     url = f"{base}/ajax/lots/?lotsType=past&limit=2000&page={page}"
-    async with session.get(url, headers=HEADERS, timeout=60) as r:
-        r.raise_for_status()
-        data = await r.json(content_type=None)
-        lots = data.get("result_page", [])
-        print(f"{base} → page {page}, got {len(lots)} lots")
-        return lots
+    last_err = None
+    for attempt in range(retries):
+        try:
+            async with session.get(url, headers=HEADERS, timeout=60) as r:
+                if r.status in (400, 403, 408, 429, 500, 502, 503, 504) and attempt < retries - 1:
+                    raise aiohttp.ClientResponseError(
+                        r.request_info, r.history, status=r.status, message="retryable"
+                    )
+                r.raise_for_status()
+                data = await r.json(content_type=None)
+                lots = data.get("result_page", [])
+                print(f"{base} → page {page}, got {len(lots)} lots")
+                return lots
+        except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+            last_err = e
+            if attempt < retries - 1:
+                delay = 2 ** attempt + 1
+                print(f"{base} → page {page} failed ({e}); retry {attempt + 1}/{retries - 1} in {delay}s")
+                await asyncio.sleep(delay)
+    raise last_err
 
 async def fetch_all_lots(base: str):
     all_lots, page = [], 1

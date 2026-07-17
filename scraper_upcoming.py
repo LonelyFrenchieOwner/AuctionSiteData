@@ -2,15 +2,33 @@ import re, json, aiohttp, asyncio
 
 HEADERS = {"User-Agent": "Mozilla/5.0", "X-Requested-With": "XMLHttpRequest"}
 
+RETRYABLE = (400, 403, 408, 429, 500, 502, 503, 504)
+
+
+async def _fetch(session, url, reader, retries=5):
+    """GET with exponential backoff on transient upstream errors."""
+    last_err = None
+    for attempt in range(retries):
+        try:
+            async with session.get(url, headers=HEADERS, timeout=60) as r:
+                if r.status in RETRYABLE and attempt < retries - 1:
+                    raise aiohttp.ClientResponseError(
+                        r.request_info, r.history, status=r.status, message="retryable"
+                    )
+                r.raise_for_status()
+                return await reader(r)
+        except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+            last_err = e
+            if attempt < retries - 1:
+                await asyncio.sleep(2 ** attempt + 1)
+    raise last_err
+
+
 async def fetch_text(session, url):
-    async with session.get(url, headers=HEADERS) as r:
-        r.raise_for_status()
-        return await r.text()
+    return await _fetch(session, url, lambda r: r.text())
 
 async def fetch_json(session, url):
-    async with session.get(url, headers=HEADERS) as r:
-        r.raise_for_status()
-        return await r.json(content_type=None)
+    return await _fetch(session, url, lambda r: r.json(content_type=None))
 
 async def fetch_upcoming_auctions(session, base):
     html = await fetch_text(session, f"{base}/auctions/upcoming")
